@@ -6,13 +6,20 @@ import com.bangbang.member.dto.MemberRequest;
 import com.bangbang.member.dto.MemberResponse;
 import com.bangbang.member.service.MemberService;
 import java.util.List;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
+@CrossOrigin(
+        origins = {"http://localhost:3000"},
+        methods = {RequestMethod.GET, RequestMethod.POST},
+        maxAge = 3600L
+)
 @RestController
 @RequestMapping(MEMBER_API_BASE_URL)
 public class MemberController {

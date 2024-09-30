@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: bangbang
+  datasource:
+    url: jdbc:mysql://localhost/bangbang
+    username: bangbang
+    password: 1234
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect

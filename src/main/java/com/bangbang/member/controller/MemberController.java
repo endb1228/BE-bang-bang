@@ -35,7 +35,7 @@ public class MemberController {
         return ResponseEntity.ok().build();
     }
 
-    @GetMapping("/login")
+    @PostMapping("/login")
     public ResponseEntity<?> login(@RequestBody MemberRequest request) {
         try {
             memberService.login(request);

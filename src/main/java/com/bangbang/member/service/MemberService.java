@@ -24,7 +24,21 @@ public class MemberService {
                 .orElseThrow(IllegalArgumentException::new);
     }
 
-    public Member createMember(MemberRequest request) {
-        return memberRepository.save(Member.create(request.getEmail(), request.getPassword()));
+    public void signup(MemberRequest request) {
+        if(memberRepository.findByEmail(request.getEmail()).isPresent()) {
+            throw new IllegalArgumentException();
+        }
+        memberRepository.save(Member.create(request.getEmail(), request.getPassword()));
+    }
+
+    public void login(MemberRequest request) {
+        Member member = memberRepository.findByEmail(request.getEmail()).orElseThrow(IllegalArgumentException::new);
+        validatePassword(member, request.getPassword());
+    }
+
+    private void validatePassword(Member member, String password) {
+        if (!member.getPassword().equals(password)) {
+            throw new IllegalArgumentException();
+        }
     }
 }

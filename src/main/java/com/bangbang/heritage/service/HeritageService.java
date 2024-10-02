@@ -1,6 +1,7 @@
 package com.bangbang.heritage.service;
 
 import com.bangbang.heritage.domain.Heritage;
+import com.bangbang.heritage.domain.HeritageType;
 import com.bangbang.heritage.repository.HeritageRepository;
 import com.bangbang.util.HeritageXMLParser;
 import java.util.List;
@@ -21,7 +22,10 @@ public class HeritageService {
         List<Heritage> heritageList = heritageRepository.findAll();
         if (heritageList.isEmpty()) {
             try {
-                heritageList = heritageRepository.saveAll(HeritageXMLParser.parse(HERITAGE_FILE_PATH + "국보.xml"));
+                for (HeritageType type : HeritageType.values()) {
+                    heritageRepository.saveAll(HeritageXMLParser.parse(HERITAGE_FILE_PATH + type.name() + ".xml"));
+                    heritageList = heritageRepository.findAll();
+                }
             } catch (Exception e) {
                 throw new RuntimeException(e);
             }

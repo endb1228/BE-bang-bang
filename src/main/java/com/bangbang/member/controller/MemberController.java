@@ -7,6 +7,8 @@ import com.bangbang.member.dto.MemberRequest;
 import com.bangbang.member.dto.MemberResponse;
 import com.bangbang.member.exception.MemberException;
 import com.bangbang.member.service.MemberService;
+import io.swagger.v3.oas.annotations.media.Content;
+import io.swagger.v3.oas.annotations.media.Schema;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;
 import org.springframework.http.ResponseEntity;
@@ -51,7 +53,7 @@ public class MemberController {
 
     @ApiResponses(value = {
             @ApiResponse(responseCode = "200", description = "로그인 성공"),
-            @ApiResponse(responseCode = "400", description = "로그인 실패"),
+            @ApiResponse(responseCode = "400", description = "로그인 실패")
     })
     @PostMapping("/login")
     public ResponseEntity<?> login(@RequestBody MemberRequest request) {

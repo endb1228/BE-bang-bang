@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <spca>
+        <ccbaAsdt>19641207</ccbaAsdt>
+        <ccbaMnm>양주별산대놀이</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>958754.90854921797</cnX>
+        <cnY>1976384.7597960699</cnY>
+        <crltsnoNm>제2호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 연희</ctgrname>
+        <sn>1</sn>
+        <vlocName>경기도 양주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19641207</ccbaAsdt>
+        <ccbaMnm>남사당놀이</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>937892.33232432103</cnX>
+        <cnY>1945793.8965910401</cnY>
+        <crltsnoNm>제3호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 연희</ctgrname>
+        <sn>2</sn>
+        <vlocName>경기도</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19641228</ccbaAsdt>
+        <ccbaMnm>갓일</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>922902.16749211901</cnX>
+        <cnY>1494248.4332165199</cnY>
+        <crltsnoNm>제4호</crltsnoNm>
+        <ctgrname>무형유산 / 전통기술 / 공예</ctgrname>
+        <sn>3</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19641228</ccbaAsdt>
+        <ccbaMnm>판소리</ccbaMnm>
+        <ccceName>조선시대</ccceName>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>970525.60515352804</cnX>
+        <cnY>1828960.6986193401</cnY>
+        <crltsnoNm>제5호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 음악</ctgrname>
+        <sn>4</sn>
+        <vlocName>충청남도 공주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19641228</ccbaAsdt>
+        <ccbaMnm>통영오광대</ccbaMnm>
+        <ccceName>기타</ccceName>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1086149.17423256</cnX>
+        <cnY>1650369.79867524</cnY>
+        <crltsnoNm>제6호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 연희</ctgrname>
+        <sn>5</sn>
+        <vlocName>경상남도 통영시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19641228</ccbaAsdt>
+        <ccbaMnm>고성오광대</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1076114.0844384001</cnX>
+        <cnY>1664476.06564486</cnY>
+        <crltsnoNm>제7호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 연희</ctgrname>
+        <sn>6</sn>
+        <vlocName>경상남도 고성군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19660215</ccbaAsdt>
+        <ccbaMnm>강강술래</ccbaMnm>
+        <ccceName>기타</ccceName>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>886755.94866528804</cnX>
+        <cnY>1610971.4555295899</cnY>
+        <crltsnoNm>제8호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 음악</ctgrname>
+        <sn>7</sn>
+        <vlocName>전라남도 진도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19660215</ccbaAsdt>
+        <ccbaMnm>은산별신제</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>941727.40135454398</cnX>
+        <cnY>1812914.40210313</cnY>
+        <crltsnoNm>제9호</crltsnoNm>
+        <ctgrname>무형유산 / 의례·의식 / 그 밖의 의식·의례</ctgrname>
+        <sn>8</sn>
+        <vlocName>충청남도 부여군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19660629</ccbaAsdt>
+        <ccbaMnm>진주삼천포농악</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1051520.126034</cnX>
+        <cnY>1663726.30285347</cnY>
+        <crltsnoNm>제11-1호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 음악</ctgrname>
+        <sn>9</sn>
+        <vlocName>경상남도 사천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19851201</ccbaAsdt>
+        <ccbaMnm>평택농악</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>963090.33919038705</cnX>
+        <cnY>1885983.96019773</cnY>
+        <crltsnoNm>제11-2호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 음악</ctgrname>
+        <sn>10</sn>
+        <vlocName>경기도 평택시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19851201</ccbaAsdt>
+        <ccbaMnm>이리농악</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>949634.09359108796</cnX>
+        <cnY>1773295.6698872701</cnY>
+        <crltsnoNm>제11-3호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 음악</ctgrname>
+        <sn>11</sn>
+        <vlocName>전북특별자치도 익산시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19851201</ccbaAsdt>
+        <ccbaMnm>강릉농악</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1122882.7112644201</cnX>
+        <cnY>1975584.7248611599</cnY>
+        <crltsnoNm>제11-4호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 음악</ctgrname>
+        <sn>12</sn>
+        <vlocName>강원특별자치도 강릉시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19880801</ccbaAsdt>
+        <ccbaMnm>임실필봉농악</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>968705.67375267705</cnX>
+        <cnY>1726805.38790919</cnY>
+        <crltsnoNm>제11-5호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 음악</ctgrname>
+        <sn>13</sn>
+        <vlocName>전북특별자치도 임실군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19670116</ccbaAsdt>
+        <ccbaMnm>진주검무</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1049033.98811317</cnX>
+        <cnY>1686698.64810986</cnY>
+        <crltsnoNm>제12호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 춤</ctgrname>
+        <sn>14</sn>
+        <vlocName>경상남도 진주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19670116</ccbaAsdt>
+        <ccbaMnm>강릉단오제</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1122889.9148252299</cnX>
+        <cnY>1972990.10595874</cnY>
+        <crltsnoNm>제13호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 놀이·무예 / 축제</ctgrname>
+        <sn>15</sn>
+        <vlocName>강원특별자치도 강릉시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19670116</ccbaAsdt>
+        <ccbaMnm>한산모시짜기</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>936935.26428042701</cnX>
+        <cnY>1787229.5889991301</cnY>
+        <crltsnoNm>제14호</crltsnoNm>
+        <ctgrname>무형유산 / 전통기술 / 공예</ctgrname>
+        <sn>16</sn>
+        <vlocName>충청남도 서천군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19670331</ccbaAsdt>
+        <ccbaMnm>북청사자놀음</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>959756.82489917905</cnX>
+        <cnY>1945758.5773332201</cnY>
+        <crltsnoNm>제15호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 연희</ctgrname>
+        <sn>17</sn>
+        <vlocName>서울특별시 강남구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19670617</ccbaAsdt>
+        <ccbaMnm>봉산탈춤</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>959756.82489917905</cnX>
+        <cnY>1945758.5773332201</cnY>
+        <crltsnoNm>제17호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 연희</ctgrname>
+        <sn>18</sn>
+        <vlocName>서울특별시 강남구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19671221</ccbaAsdt>
+        <ccbaMnm>동래야류</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1143649.6389643799</cnX>
+        <cnY>1693281.44274651</cnY>
+        <crltsnoNm>제18호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 연희</ctgrname>
+        <sn>19</sn>
+        <vlocName>부산광역시 동래구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19680419</ccbaAsdt>
+        <ccbaMnm>선소리산타령</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>959756.82489917905</cnX>
+        <cnY>1945758.5773332201</cnY>
+        <crltsnoNm>제19호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 음악</ctgrname>
+        <sn>20</sn>
+        <vlocName>서울특별시 강남구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19681223</ccbaAsdt>
+        <ccbaMnm>승전무</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1086149.17423256</cnX>
+        <cnY>1650369.79867524</cnY>
+        <crltsnoNm>제21호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 춤</ctgrname>
+        <sn>21</sn>
+        <vlocName>경상남도 통영시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19690107</ccbaAsdt>
+        <ccbaMnm>안동차전놀이</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1110228.57141766</cnX>
+        <cnY>1840988.71288852</cnY>
+        <crltsnoNm>제24호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 놀이·무예 / 놀이</ctgrname>
+        <sn>22</sn>
+        <vlocName>경상북도 안동시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19690211</ccbaAsdt>
+        <ccbaMnm>영산쇠머리대기</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1093374.8794413901</cnX>
+        <cnY>1717722.0248975901</cnY>
+        <crltsnoNm>제25호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 놀이·무예 / 놀이</ctgrname>
+        <sn>23</sn>
+        <vlocName>경상남도 창녕군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19690211</ccbaAsdt>
+        <ccbaMnm>영산줄다리기</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1093374.8794413901</cnX>
+        <cnY>1717722.0248975901</cnY>
+        <crltsnoNm>제26호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 놀이·무예 / 놀이</ctgrname>
+        <sn>24</sn>
+        <vlocName>경상남도 창녕군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19691111</ccbaAsdt>
+        <ccbaMnm>가곡</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1097048.2757657899</cnX>
+        <cnY>1692415.1177864801</cnY>
+        <crltsnoNm>제30호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 음악</ctgrname>
+        <sn>25</sn>
+        <vlocName>경상남도 창원시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19700722</ccbaAsdt>
+        <ccbaMnm>곡성의 돌실나이</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>976210.40669916</cnX>
+        <cnY>1682184.7637169601</cnY>
+        <crltsnoNm>제32호</crltsnoNm>
+        <ctgrname>무형유산 / 전통기술 / 공예</ctgrname>
+        <sn>26</sn>
+        <vlocName>전라남도 곡성군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19700722</ccbaAsdt>
+        <ccbaMnm>광주 칠석 고싸움놀이</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>939441.72019117</cnX>
+        <cnY>1675110.5438290299</cnY>
+        <crltsnoNm>제33호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 놀이·무예 / 놀이</ctgrname>
+        <sn>27</sn>
+        <vlocName>광주광역시 남구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19700722</ccbaAsdt>
+        <ccbaMnm>강령탈춤</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>959756.82489917905</cnX>
+        <cnY>1945758.5773332201</cnY>
+        <crltsnoNm>제34호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 연희</ctgrname>
+        <sn>28</sn>
+        <vlocName>서울특별시 강남구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19710108</ccbaAsdt>
+        <ccbaMnm>학연화대합설무</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>959756.82489917905</cnX>
+        <cnY>1945758.5773332201</cnY>
+        <crltsnoNm>제40호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 춤</ctgrname>
+        <sn>29</sn>
+        <vlocName>서울특별시 강남구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19710224</ccbaAsdt>
+        <ccbaMnm>수영야류</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1146976.2464237399</cnX>
+        <cnY>1687408.2789020699</cnY>
+        <crltsnoNm>제43호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 연희</ctgrname>
+        <sn>30</sn>
+        <vlocName>부산광역시 수영구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19710316</ccbaAsdt>
+        <ccbaMnm>경산자인단오제</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1119136.72141872</cnX>
+        <cnY>1758723.0128339301</cnY>
+        <crltsnoNm>제44호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 놀이·무예 / 축제</ctgrname>
+        <sn>31</sn>
+        <vlocName>경상북도 경산시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19710913</ccbaAsdt>
+        <ccbaMnm>궁시장</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>959756.82489917905</cnX>
+        <cnY>1945758.5773332201</cnY>
+        <crltsnoNm>제47호</crltsnoNm>
+        <ctgrname>무형유산 / 전통기술 / 공예</ctgrname>
+        <sn>32</sn>
+        <vlocName>서울특별시 강남구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19731105</ccbaAsdt>
+        <ccbaMnm>송파산대놀이</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>964473.85176117101</cnX>
+        <cnY>1945663.5047486899</cnY>
+        <crltsnoNm>제49호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 연희</ctgrname>
+        <sn>33</sn>
+        <vlocName>서울특별시 송파구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19731105</ccbaAsdt>
+        <ccbaMnm>남도들노래</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>877095.34132618597</cnX>
+        <cnY>1604228.6202183501</cnY>
+        <crltsnoNm>제51호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 음악</ctgrname>
+        <sn>34</sn>
+        <vlocName>전라남도 진도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19750130</ccbaAsdt>
+        <ccbaMnm>채상장</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>952575.74167452205</cnX>
+        <cnY>1702932.06702976</cnY>
+        <crltsnoNm>제53호</crltsnoNm>
+        <ctgrname>무형유산 / 전통기술 / 공예</ctgrname>
+        <sn>35</sn>
+        <vlocName>전라남도 담양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19780223</ccbaAsdt>
+        <ccbaMnm>장도장</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1007360.52467914</cnX>
+        <cnY>1664696.2975777399</cnY>
+        <crltsnoNm>제60호</crltsnoNm>
+        <ctgrname>무형유산 / 전통기술 / 공예</ctgrname>
+        <sn>36</sn>
+        <vlocName>전라남도 광양시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19780223</ccbaAsdt>
+        <ccbaMnm>은율탈춤</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>925901.57094108302</cnX>
+        <cnY>1940530.7175360499</cnY>
+        <crltsnoNm>제61호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 연희</ctgrname>
+        <sn>37</sn>
+        <vlocName>인천광역시 미추홀구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19780509</ccbaAsdt>
+        <ccbaMnm>좌수영어방놀이</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1146976.2464237399</cnX>
+        <cnY>1687408.2789020699</cnY>
+        <crltsnoNm>제62호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 음악</ctgrname>
+        <sn>38</sn>
+        <vlocName>부산광역시 수영구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19801117</ccbaAsdt>
+        <ccbaMnm>백동연죽장</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>989828.954317722</cnX>
+        <cnY>1711896.57883557</cnY>
+        <crltsnoNm>제65호</crltsnoNm>
+        <ctgrname>무형유산 / 전통기술 / 공예</ctgrname>
+        <sn>39</sn>
+        <vlocName>전북특별자치도 남원시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19801117</ccbaAsdt>
+        <ccbaMnm>밀양백중놀이</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1113653.00152186</cnX>
+        <cnY>1723050.8719991399</cnY>
+        <crltsnoNm>제68호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 놀이·무예 / 놀이</ctgrname>
+        <sn>40</sn>
+        <vlocName>경상남도 밀양시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19801117</ccbaAsdt>
+        <ccbaMnm>하회별신굿탈놀이</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1091699.06627927</cnX>
+        <cnY>1838639.0042966299</cnY>
+        <crltsnoNm>제69호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 연희</ctgrname>
+        <sn>41</sn>
+        <vlocName>경상북도 안동시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19801117</ccbaAsdt>
+        <ccbaMnm>양주소놀이굿</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>956011.69011963299</cnX>
+        <cnY>1976981.6636794901</cnY>
+        <crltsnoNm>제70호</crltsnoNm>
+        <ctgrname>무형유산 / 의례·의식 / 민간신앙의례</ctgrname>
+        <sn>42</sn>
+        <vlocName>경기도 양주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19801117</ccbaAsdt>
+        <ccbaMnm>진도씻김굿</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>886755.94866528804</cnX>
+        <cnY>1610971.4555295899</cnY>
+        <crltsnoNm>제72호</crltsnoNm>
+        <ctgrname>무형유산 / 의례·의식 / 민간신앙의례</ctgrname>
+        <sn>43</sn>
+        <vlocName>전라남도 진도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19801117</ccbaAsdt>
+        <ccbaMnm>가산오광대</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1049252.4605916999</cnX>
+        <cnY>1676744.2026466599</cnY>
+        <crltsnoNm>제73호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 연희</ctgrname>
+        <sn>44</sn>
+        <vlocName>경상남도 사천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19820601</ccbaAsdt>
+        <ccbaMnm>기지시줄다리기</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>928256.77308852703</cnX>
+        <cnY>1877841.2083354299</cnY>
+        <crltsnoNm>제75호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 놀이·무예 / 놀이</ctgrname>
+        <sn>45</sn>
+        <vlocName>충청남도 당진시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19830601</ccbaAsdt>
+        <ccbaMnm>택견</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1037890.94325714</cnX>
+        <cnY>1885261.0064840999</cnY>
+        <crltsnoNm>제76호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 놀이·무예 / 무예</ctgrname>
+        <sn>46</sn>
+        <vlocName>충청북도 충주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19830601</ccbaAsdt>
+        <ccbaMnm>입사장</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>959756.82489917905</cnX>
+        <cnY>1945758.5773332201</cnY>
+        <crltsnoNm>제78호</crltsnoNm>
+        <ctgrname>무형유산 / 전통기술 / 미술</ctgrname>
+        <sn>47</sn>
+        <vlocName>서울특별시 강남구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19850201</ccbaAsdt>
+        <ccbaMnm>진도다시래기</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>886755.94866528804</cnX>
+        <cnY>1610971.4555295899</cnY>
+        <crltsnoNm>제81호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 연희</ctgrname>
+        <sn>48</sn>
+        <vlocName>전라남도 진도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19850201</ccbaAsdt>
+        <ccbaMnm>위도띠뱃놀이</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>888199.88000687701</cnX>
+        <cnY>1732151.7179885299</cnY>
+        <crltsnoNm>제82-3호</crltsnoNm>
+        <ctgrname>무형유산 / 의례·의식 / 민간신앙의례</ctgrname>
+        <sn>49</sn>
+        <vlocName>전북특별자치도 부안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19870701</ccbaAsdt>
+        <ccbaMnm>남해안별신굿</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1086149.17423256</cnX>
+        <cnY>1650369.79867524</cnY>
+        <crltsnoNm>제82-4호</crltsnoNm>
+        <ctgrname>무형유산 / 의례·의식 / 민간신앙의례</ctgrname>
+        <sn>50</sn>
+        <vlocName>경상남도 통영시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19850901</ccbaAsdt>
+        <ccbaMnm>구례향제줄풍류</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>996610.0474859</cnX>
+        <cnY>1690342.8347754399</cnY>
+        <crltsnoNm>제83-1호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 음악</ctgrname>
+        <sn>51</sn>
+        <vlocName>전라남도 구례군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19850901</ccbaAsdt>
+        <ccbaMnm>이리향제줄풍류</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>951420.80085891206</cnX>
+        <cnY>1773812.46806848</cnY>
+        <crltsnoNm>제83-2호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 음악</ctgrname>
+        <sn>52</sn>
+        <vlocName>전북특별자치도 익산시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19851201</ccbaAsdt>
+        <ccbaMnm>고성농요</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1062928.16461075</cnX>
+        <cnY>1667267.47447019</cnY>
+        <crltsnoNm>제84-1호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 음악</ctgrname>
+        <sn>53</sn>
+        <vlocName>경상남도 고성군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19851201</ccbaAsdt>
+        <ccbaMnm>예천통명농요</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1087159.69575502</cnX>
+        <cnY>1851772.62046165</cnY>
+        <crltsnoNm>제84-2호</crltsnoNm>
+        <ctgrname>무형유산 / 전통 공연·예술 / 음악</ctgrname>
+        <sn>54</sn>
+        <vlocName>경상북도 예천군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19880801</ccbaAsdt>
+        <ccbaMnm>침선장</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>959756.82489917905</cnX>
+        <cnY>1945758.5773332201</cnY>
+        <crltsnoNm>제89호</crltsnoNm>
+        <ctgrname>무형유산 / 전통기술 / 공예</ctgrname>
+        <sn>55</sn>
+        <vlocName>서울특별시 강남구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19960201</ccbaAsdt>
+        <ccbaMnm>금속활자장</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>999306.29092983401</cnX>
+        <cnY>1849064.9621945301</cnY>
+        <crltsnoNm>제101호</crltsnoNm>
+        <ctgrname>무형유산 / 전통기술 / 공예</ctgrname>
+        <sn>56</sn>
+        <vlocName>충청북도 청주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19960501</ccbaAsdt>
+        <ccbaMnm>서울 새남굿</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>959756.82489917905</cnX>
+        <cnY>1945758.5773332201</cnY>
+        <crltsnoNm>제104호</crltsnoNm>
+        <ctgrname>무형유산 / 의례·의식 / 민간신앙의례</ctgrname>
+        <sn>57</sn>
+        <vlocName>서울특별시 강남구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19961101</ccbaAsdt>
+        <ccbaMnm>각자장</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>959756.82489917905</cnX>
+        <cnY>1945758.5773332201</cnY>
+        <crltsnoNm>제106호</crltsnoNm>
+        <ctgrname>무형유산 / 전통기술 / 미술</ctgrname>
+        <sn>58</sn>
+        <vlocName>서울특별시 강남구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19961231</ccbaAsdt>
+        <ccbaMnm>목조각장</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>1030116.37611294</cnX>
+        <cnY>1721881.67853208</cnY>
+        <crltsnoNm>제108호</crltsnoNm>
+        <ctgrname>무형유산 / 전통기술 / 미술</ctgrname>
+        <sn>59</sn>
+        <vlocName>경상남도 산청군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19961231</ccbaAsdt>
+        <ccbaMnm>화각장</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>959756.82489917905</cnX>
+        <cnY>1945758.5773332201</cnY>
+        <crltsnoNm>제109호</crltsnoNm>
+        <ctgrname>무형유산 / 전통기술 / 공예</ctgrname>
+        <sn>60</sn>
+        <vlocName>서울특별시 강남구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19961231</ccbaAsdt>
+        <ccbaMnm>윤도장</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>932840.79650596296</cnX>
+        <cnY>1725757.8503027801</cnY>
+        <crltsnoNm>제110호</crltsnoNm>
+        <ctgrname>무형유산 / 전통기술 / 공예</ctgrname>
+        <sn>61</sn>
+        <vlocName>전북특별자치도 고창군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>20010906</ccbaAsdt>
+        <ccbaMnm>염색장</ccbaMnm>
+        <ccmaName>국가무형유산</ccmaName>
+        <cnX>920983.69093883503</cnX>
+        <cnY>1667279.6468400799</cnY>
+        <crltsnoNm>제115호</crltsnoNm>
+        <ctgrname>무형유산 / 전통기술 / 공예</ctgrname>
+        <sn>62</sn>
+        <vlocName>전라남도 나주시</vlocName>
+    </spca>
+</root>

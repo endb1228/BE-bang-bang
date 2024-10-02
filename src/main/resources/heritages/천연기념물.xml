@@ -1,0 +1,4953 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:ns2="http://gis-heritage.go.kr/">
+    <spca>
+        <ccbaAdmin>배영호</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>대구 도동 측백나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1104959.2459465901</cnX>
+        <cnY>1769699.0933302201</cnY>
+        <crltsnoNm>제1호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>1</sn>
+        <vlocName>대구광역시 동구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>헌법재판소</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>서울 재동 백송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>954458.61741325096</cnX>
+        <cnY>1953352.84258899</cnY>
+        <crltsnoNm>제8호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>2</sn>
+        <vlocName>서울특별시 종로구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>조계종 조계사</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>서울 조계사 백송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>954273.32308929297</cnX>
+        <cnY>1952853.2690147001</cnY>
+        <crltsnoNm>제9호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 종교</ctgrname>
+        <sn>3</sn>
+        <vlocName>서울특별시 종로구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>신산김씨회이군파종친회 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>광릉 크낙새 서식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>969710.63793817302</cnX>
+        <cnY>1970931.8165768499</cnY>
+        <crltsnoNm>제11호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>4</sn>
+        <vlocName>경기도 남양주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>평산신씨 중헌공파종중 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>진천 노원리 왜가리 번식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>992358.49946193898</cnX>
+        <cnY>1880627.30618269</cnY>
+        <crltsnoNm>제13호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>5</sn>
+        <vlocName>충청북도 진천군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>제주 삼도 파초일엽 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>916082.44280944997</cnX>
+        <cnY>1471366.49958951</cnY>
+        <crltsnoNm>제18호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>6</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>재무부</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>제주 토끼섬 문주란 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>944543.06470672204</cnX>
+        <cnY>1503720.65990626</cnY>
+        <crltsnoNm>제19호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>7</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>제주특별자치도 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>제주 무태장어 서식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>899169.23568575096,911958.27459319995</cnX>
+        <cnY>1473485.1859838499,1473188.4106950201</cnY>
+        <crltsnoNm>제27호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>8</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국가유산청</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>완도 주도 상록수림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>931576.27212310105</cnX>
+        <cnY>1591720.1080517501</cnY>
+        <crltsnoNm>제28호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>9</sn>
+        <vlocName>전라남도 완도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>남해 미조리 상록수림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1049821.4399503099</cnX>
+        <cnY>1635635.7473071101</cnY>
+        <crltsnoNm>제29호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>10</sn>
+        <vlocName>경상남도 남해군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 용문사</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>양평 용문사 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1006294.2516502501</cnX>
+        <cnY>1950049.9924743201</cnY>
+        <crltsnoNm>제30호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 종교</ctgrname>
+        <sn>11</sn>
+        <vlocName>경기도 양평군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>강진군 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>강진 사당리 푸조나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>936261.33364534495</cnX>
+        <cnY>1612924.66547865</cnY>
+        <crltsnoNm>제35호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>12</sn>
+        <vlocName>전라남도 강진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>목천장씨 교수공파</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>순천 평중리 이팝나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>987844.289910238</cnX>
+        <cnY>1669478.69333306</cnY>
+        <crltsnoNm>제36호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>13</sn>
+        <vlocName>전라남도 순천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>화엄사</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>구례 화엄사 올벚나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>999821.159476934</cnX>
+        <cnY>1695507.2442914101</cnY>
+        <crltsnoNm>제38호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 종교</ctgrname>
+        <sn>14</sn>
+        <vlocName>전라남도 구례군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>강진군</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>강진 삼인리 비자나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>937685.75599744904</cnX>
+        <cnY>1635816.3498492099</cnY>
+        <crltsnoNm>제39호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>15</sn>
+        <vlocName>전라남도 강진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>재정경제부</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>완도 예송리 상록수림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>913606.92445858999</cnX>
+        <cnY>1572265.4881895201</cnY>
+        <crltsnoNm>제40호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>16</sn>
+        <vlocName>전라남도 완도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>울릉 통구미 향나무 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1296581.8462873001</cnX>
+        <cnY>1945965.0522544</cnY>
+        <crltsnoNm>제48호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 유전학</ctgrname>
+        <sn>17</sn>
+        <vlocName>경상북도 울릉군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>울릉 대풍감 향나무 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1291236.97476129</cnX>
+        <cnY>1952148.3504319901</cnY>
+        <crltsnoNm>제49호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 유전학</ctgrname>
+        <sn>18</sn>
+        <vlocName>경상북도 울릉군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>울릉 태하동 솔송나무·섬잣나무·너도밤나무 군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1294141.2697294201</cnX>
+        <cnY>1949489.10232196</cnY>
+        <crltsnoNm>제50호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>19</sn>
+        <vlocName>경상북도 울릉군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>울릉 도동 섬개야광나무와 섬댕강나무 군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1301341.69671236</cnX>
+        <cnY>1948473.40902048</cnY>
+        <crltsnoNm>제51호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 유전학</ctgrname>
+        <sn>20</sn>
+        <vlocName>경상북도 울릉군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>울릉군</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>울릉 나리동 울릉국화와 섬백리향 군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1296973.00850716</cnX>
+        <cnY>1951514.6471082</cnY>
+        <crltsnoNm>제52호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 유전학</ctgrname>
+        <sn>21</sn>
+        <vlocName>경상북도 울릉군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국가유산청</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>서울 문묘 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>955497.41648219898</cnX>
+        <cnY>1954158.4683941</cnY>
+        <crltsnoNm>제59호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 종교</ctgrname>
+        <sn>22</sn>
+        <vlocName>서울특별시 종로구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>탐진최씨정민공파명오조후손종친회</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>고양 송포 백송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>932867.84834060003</cnX>
+        <cnY>1966386.15165862</cnY>
+        <crltsnoNm>제60호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>23</sn>
+        <vlocName>경기도 고양시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>단양군 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>단양 영천리 측백나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1071320.05359706</cnX>
+        <cnY>1896372.93627241</cnY>
+        <crltsnoNm>제62호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>24</sn>
+        <vlocName>충청북도 단양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>내항마을회 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>통영 비진도 팔손이나무 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1087763.6918641001</cnX>
+        <cnY>1637740.50365889</cnY>
+        <crltsnoNm>제63호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>25</sn>
+        <vlocName>경상남도 통영시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>울주군 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>울주 구량리 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1148061.5370247299</cnX>
+        <cnY>1737403.0761754401</cnY>
+        <crltsnoNm>제64호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>26</sn>
+        <vlocName>울산광역시 울주군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>울산광역시</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>울주 목도 상록수림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1168076.9866341399</cnX>
+        <cnY>1718602.2402493199</cnY>
+        <crltsnoNm>제65호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>27</sn>
+        <vlocName>울산광역시 울주군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>옹진 대청도 동백나무 자생북한지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>752287.17243449099</cnX>
+        <cnY>1983565.53174517</cnY>
+        <crltsnoNm>제66호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>28</sn>
+        <vlocName>인천광역시 옹진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설교통부 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>상주 운평리 구상화강암</ccbaMnm>
+        <ccceName>미상</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1063437.61690414</cnX>
+        <cnY>1820751.9693731</cnY>
+        <crltsnoNm>제69호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>29</sn>
+        <vlocName>경상북도 상주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 정암사 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>정선 정암사 열목어 서식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1124583.62807803</cnX>
+        <cnY>1910536.55017676</cnY>
+        <crltsnoNm>제73호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>30</sn>
+        <vlocName>강원특별자치도 정선군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>봉화군 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>봉화 대현리 열목어 서식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1129506.6006074001</cnX>
+        <cnY>1897281.87641236</cnY>
+        <crltsnoNm>제74호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>31</sn>
+        <vlocName>경상북도 봉화군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>영월군</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>영월 하송리 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1085563.28692492</cnX>
+        <cnY>1909274.7273506301</cnY>
+        <crltsnoNm>제76호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 종교</ctgrname>
+        <sn>32</sn>
+        <vlocName>강원특별자치도 영월군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>강화군</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>강화 갑곶리 탱자나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>913343.47485142702</cnX>
+        <cnY>1970983.3296212</cnY>
+        <crltsnoNm>제78호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 역사</ctgrname>
+        <sn>33</sn>
+        <vlocName>인천광역시 강화군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>강화군</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>강화 사기리 탱자나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>908054.65329313895</cnX>
+        <cnY>1957997.62623173</cnY>
+        <crltsnoNm>제79호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>34</sn>
+        <vlocName>인천광역시 강화군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>무안군 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>무안 청천리 팽나무와 개서어나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>904756.81608232402</cnX>
+        <cnY>1664128.2505886599</cnY>
+        <crltsnoNm>제82호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>35</sn>
+        <vlocName>전라남도 무안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>금산 요광리 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>999329.12889847904</cnX>
+        <cnY>1801654.7322864099</cnY>
+        <crltsnoNm>제84호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>36</sn>
+        <vlocName>충청남도 금산군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 송광사</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>순천 송광사 천자암 쌍향수(곱향나무)</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>980831.10783610703</cnX>
+        <cnY>1665176.4509312101</cnY>
+        <crltsnoNm>제88호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 종교</ctgrname>
+        <sn>37</sn>
+        <vlocName>전라남도 순천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>경주시 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>경주 오류리 등나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1153060.91786922</cnX>
+        <cnY>1765978.8274216801</cnY>
+        <crltsnoNm>제89호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>38</sn>
+        <vlocName>경상북도 경주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 내장사</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>내장산 굴거리나무 군락</ccbaMnm>
+        <ccceName>기타</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>945176.85546174797,945438.88808888802</cnX>
+        <cnY>1721958.20353873,1721221.0661593401</cnY>
+        <crltsnoNm>제91호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>39</sn>
+        <vlocName>전북특별자치도 정읍시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>원성 성남리 성황림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1051845.5100366101</cnX>
+        <cnY>1918687.98477913</cnY>
+        <crltsnoNm>제93호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>40</sn>
+        <vlocName>강원특별자치도 원주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>재무부</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>삼척 도계리 긴잎느티나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1137462.68129281</cnX>
+        <cnY>1915882.0512075401</cnY>
+        <crltsnoNm>제95호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>41</sn>
+        <vlocName>강원특별자치도 삼척시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>울진군</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>울진 수산리 굴참나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1168902.30052131</cnX>
+        <cnY>1887124.1089879</cnY>
+        <crltsnoNm>제96호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>42</sn>
+        <vlocName>경상북도 울진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>제주특별자치도 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>제주 김녕굴과 만장굴</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>931520.346677294</cnX>
+        <cnY>1503528.9376773301</cnY>
+        <crltsnoNm>제98호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>43</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>해역부</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>진도 고니류 도래지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>886422.75267743401</cnX>
+        <cnY>1617641.09769776</cnY>
+        <crltsnoNm>제101호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>44</sn>
+        <vlocName>전라남도 진도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>충청북도 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>보은 속리 정이품송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1028255.69774962</cnX>
+        <cnY>1835567.1206098499</cnY>
+        <crltsnoNm>제103호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>45</sn>
+        <vlocName>충청북도 보은군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>경주김씨예산급규정손종친회</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>예산 용궁리 백송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>937250.56407457904</cnX>
+        <cnY>1861718.8430250001</cnY>
+        <crltsnoNm>제106호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 역사</ctgrname>
+        <sn>46</sn>
+        <vlocName>충청남도 예산군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>진도 쌍계사 상록수림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>891056.31088515604</cnX>
+        <cnY>1609318.90391046</cnY>
+        <crltsnoNm>제107호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>47</sn>
+        <vlocName>전라남도 진도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>함평군 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>함평 향교리 느티나무·팽나무·개서어나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>911826.59146884806</cnX>
+        <cnY>1675012.9777657499</cnY>
+        <crltsnoNm>제108호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>48</sn>
+        <vlocName>전라남도 함평군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>함평군</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>함평 기각리 붉가시나무 자생북한지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>910499.67294961202</cnX>
+        <cnY>1675532.6377111301</cnY>
+        <crltsnoNm>제110호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>49</sn>
+        <vlocName>전라남도 함평군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>진도군 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>진도 상만리 비자나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>881773.61723245203</cnX>
+        <cnY>1599519.3781498701</cnY>
+        <crltsnoNm>제111호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>50</sn>
+        <vlocName>전라남도 진도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 불갑사</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>영광 불갑사 참식나무 자생북한지</ccbaMnm>
+        <ccceName>백제시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>913603.26585075399</cnX>
+        <cnY>1688963.0995827101</cnY>
+        <crltsnoNm>제112호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>51</sn>
+        <vlocName>전라남도 영광군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>감천1리마을회</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>영양 감천리 측백나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1142273.29972536</cnX>
+        <cnY>1848906.7343488401</cnY>
+        <crltsnoNm>제114호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>52</sn>
+        <vlocName>경상북도 영양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>이해철</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>경주 독락당 조각자나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1149570.2820985499</cnX>
+        <cnY>1781265.3409526399</cnY>
+        <crltsnoNm>제115호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 종교</ctgrname>
+        <sn>53</sn>
+        <vlocName>경상북도 경주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>부안 도청리 호랑가시나무 군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>910213.32141330396</cnX>
+        <cnY>1732612.0540863799</cnY>
+        <crltsnoNm>제122호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>54</sn>
+        <vlocName>전북특별자치도 부안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>은성무 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>부안 격포리 후박나무 군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>906006.15869525506</cnX>
+        <cnY>1738173.63520443</cnY>
+        <crltsnoNm>제123호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>55</sn>
+        <vlocName>전북특별자치도 부안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문교부 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>부안 중계리 꽝꽝나무군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>916948.76634925394</cnX>
+        <cnY>1740464.3021046701</cnY>
+        <crltsnoNm>제124호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>56</sn>
+        <vlocName>전북특별자치도 부안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국가유산청</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>보령 외연도 상록수림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>872521.08663922502</cnX>
+        <cnY>1804618.44419758</cnY>
+        <crltsnoNm>제136호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>57</sn>
+        <vlocName>충청남도 보령시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>태안군</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>태안 안면도 모감주나무 군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>895688.57980609697</cnX>
+        <cnY>1834740.94500904</cnY>
+        <crltsnoNm>제138호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>58</sn>
+        <vlocName>충청남도 태안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림수산부 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>칠곡 금무봉 나무고사리 화석산지</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1083653.4156022</cnX>
+        <cnY>1773808.2010258201</cnY>
+        <crltsnoNm>제146호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>59</sn>
+        <vlocName>경상북도 칠곡군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>박상표</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>괴산 송덕리 미선나무 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1039065.14551544</cnX>
+        <cnY>1866454.3160667</cnY>
+        <crltsnoNm>제147호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분류학</ctgrname>
+        <sn>60</sn>
+        <vlocName>충청북도 괴산군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>남해군</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>남해 물건리 방조어부림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1050370.55051101</cnX>
+        <cnY>1644942.6238844199</cnY>
+        <crltsnoNm>제150호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>61</sn>
+        <vlocName>경상남도 남해군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 백련사</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>강진 백련사 동백나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>930916.52221715695</cnX>
+        <cnY>1621730.67604432</cnY>
+        <crltsnoNm>제151호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 종교</ctgrname>
+        <sn>62</sn>
+        <vlocName>전라남도 강진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>화방사</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>남해 화방사 산닥나무 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1033348.96654439</cnX>
+        <cnY>1652276.22964593</cnY>
+        <crltsnoNm>제152호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>63</sn>
+        <vlocName>경상남도 남해군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>백양사</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>장성 백양사 비자나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>943322.54046298296,943808.457571293,944018.84385589301</cnX>
+        <cnY>1715908.5777781401,1715558.04287019,1716522.3775207901</cnY>
+        <crltsnoNm>제153호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>64</sn>
+        <vlocName>전라남도 장성군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>함양군 외</ccbaAdmin>
+        <ccbaAsdt>19621207</ccbaAsdt>
+        <ccbaMnm>함양 상림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1019619.95106277</cnX>
+        <cnY>1725900.6977041301</cnY>
+        <crltsnoNm>제154호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>65</sn>
+        <vlocName>경상남도 함양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>울진군 외</ccbaAdmin>
+        <ccbaAsdt>19630510</ccbaAsdt>
+        <ccbaMnm>울진 성류굴</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1167379.9210380199</cnX>
+        <cnY>1885872.2394324499</cnY>
+        <crltsnoNm>제155호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>66</sn>
+        <vlocName>경상북도 울진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>19640131</ccbaAsdt>
+        <ccbaMnm>제주 신례리 왕벚나무 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>917191.51508845598</cnX>
+        <cnY>1483179.4869865901</cnY>
+        <crltsnoNm>제156호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>67</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>울진군</ccbaAdmin>
+        <ccbaAsdt>19640131</ccbaAsdt>
+        <ccbaMnm>울진 후정리 향나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1170443.7892690001</cnX>
+        <cnY>1897130.12034622</cnY>
+        <crltsnoNm>제158호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>68</sn>
+        <vlocName>경상북도 울진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>19640131</ccbaAsdt>
+        <ccbaMnm>제주 봉개동 왕벚나무 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>915824.13366688497,915857.54708788905,915913.06665867299</cnX>
+        <cnY>1493332.8783655099,1493388.71791942,1493390.0377849999</cnY>
+        <crltsnoNm>제159호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>69</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문화재청 외</ccbaAdmin>
+        <ccbaAsdt>19640131</ccbaAsdt>
+        <ccbaMnm>제주 산천단 곰솔 군</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>912135.02314891003</cnX>
+        <cnY>1495484.1803530499</cnY>
+        <crltsnoNm>제160호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>70</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>제주특별자치도 외</ccbaAdmin>
+        <ccbaAsdt>19640131</ccbaAsdt>
+        <ccbaMnm>제주 성읍리 느티나무 및 팽나무 군</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>934994.42363189103</cnX>
+        <cnY>1488704.7587090801</cnY>
+        <crltsnoNm>제161호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>71</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>서귀포시 외</ccbaAdmin>
+        <ccbaAsdt>19640131</ccbaAsdt>
+        <ccbaMnm>제주 도순리 녹나무 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>905070.75881119503</cnX>
+        <cnY>1473107.44850702</cnY>
+        <crltsnoNm>제162호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>72</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부</ccbaAdmin>
+        <ccbaAsdt>19640131</ccbaAsdt>
+        <ccbaMnm>제주 천지연 담팔수 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>911952.59860564605</cnX>
+        <cnY>1473149.5168971799</cnY>
+        <crltsnoNm>제163호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>73</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>경상남도 교육감 외</ccbaAdmin>
+        <ccbaAsdt>19640131</ccbaAsdt>
+        <ccbaMnm>창원 신방리 음나무 군</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1107118.1795159001</cnX>
+        <cnY>1699837.4312320601</cnY>
+        <crltsnoNm>제164호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>74</sn>
+        <vlocName>경상남도 창원시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>충청북도교육감</ccbaAdmin>
+        <ccbaAsdt>19640131</ccbaAsdt>
+        <ccbaMnm>괴산 읍내리 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1012422.99931054</cnX>
+        <cnY>1863838.29124498</cnY>
+        <crltsnoNm>제165호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>75</sn>
+        <vlocName>충청북도 괴산군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>강릉시 외</ccbaAdmin>
+        <ccbaAsdt>19640131</ccbaAsdt>
+        <ccbaMnm>강릉 장덕리 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1112847.2339745399</cnX>
+        <cnY>1987198.8511363801</cnY>
+        <crltsnoNm>제166호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>76</sn>
+        <vlocName>강원특별자치도 강릉시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>원주시</ccbaAdmin>
+        <ccbaAsdt>19640131</ccbaAsdt>
+        <ccbaMnm>원주 반계리 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1025563.49953531</cnX>
+        <cnY>1921734.5456983</cnY>
+        <crltsnoNm>제167호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>77</sn>
+        <vlocName>강원특별자치도 원주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>동래정씨대종중 외</ccbaAdmin>
+        <ccbaAsdt>19650407</ccbaAsdt>
+        <ccbaMnm>부산 양정동 배롱나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1142203.15711894</cnX>
+        <cnY>1688076.4794514</cnY>
+        <crltsnoNm>제168호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>78</sn>
+        <vlocName>부산광역시 부산진구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>서천군</ccbaAdmin>
+        <ccbaAsdt>19650407</ccbaAsdt>
+        <ccbaMnm>서천 마량리 동백나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>909497.868098718</cnX>
+        <cnY>1793772.7522615499</cnY>
+        <crltsnoNm>제169호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>79</sn>
+        <vlocName>충청남도 서천군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>신안군 외</ccbaAdmin>
+        <ccbaAsdt>19650407</ccbaAsdt>
+        <ccbaMnm>홍도 천연보호구역</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>789316.13764030195</cnX>
+        <cnY>1635426.61373069</cnY>
+        <crltsnoNm>제170호</crltsnoNm>
+        <ctgrname>자연유산 / 천연보호구역 / 문화및자연결합성 / 경관및과학성</ctgrname>
+        <sn>80</sn>
+        <vlocName>전라남도 신안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>인제군 외</ccbaAdmin>
+        <ccbaAsdt>19651105</ccbaAsdt>
+        <ccbaMnm>설악산 천연보호구역</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1080989.57445481</cnX>
+        <cnY>2015713.9853111501</cnY>
+        <crltsnoNm>제171호</crltsnoNm>
+        <ctgrname>자연유산 / 천연보호구역 / 문화및자연결합성 / 경관및과학성</ctgrname>
+        <sn>81</sn>
+        <vlocName>강원특별자치도 속초시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문화재청</ccbaAdmin>
+        <ccbaAsdt>19660113</ccbaAsdt>
+        <ccbaMnm>강진 까막섬 상록수림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>936857.81231909304</cnX>
+        <cnY>1606381.0953933899</cnY>
+        <crltsnoNm>제172호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>82</sn>
+        <vlocName>전라남도 강진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 대흥사</ccbaAdmin>
+        <ccbaAsdt>19660113</ccbaAsdt>
+        <ccbaMnm>해남 대둔산 왕벚나무 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>918140.89065408602</cnX>
+        <cnY>1610208.6557676799</cnY>
+        <crltsnoNm>제173호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>83</sn>
+        <vlocName>전라남도 해남군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>경상북도교육감 외</ccbaAdmin>
+        <ccbaAsdt>19660113</ccbaAsdt>
+        <ccbaMnm>안동 송사동 소태나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1128202.6821685</cnX>
+        <cnY>1820039.14049427</cnY>
+        <crltsnoNm>제174호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>84</sn>
+        <vlocName>경상북도 안동시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국토교통부</ccbaAdmin>
+        <ccbaAsdt>19660113</ccbaAsdt>
+        <ccbaMnm>안동 용계리 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1127645.0963353801</cnX>
+        <cnY>1833404.97379357</cnY>
+        <crltsnoNm>제175호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>85</sn>
+        <vlocName>경상북도 안동시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 범어사</ccbaAdmin>
+        <ccbaAsdt>19660113</ccbaAsdt>
+        <ccbaMnm>부산 범어사 등나무 군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1142877.6201800001</cnX>
+        <cnY>1699690.47376463</cnY>
+        <crltsnoNm>제176호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>86</sn>
+        <vlocName>부산광역시 금정구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림수산부 외</ccbaAdmin>
+        <ccbaAsdt>19660302</ccbaAsdt>
+        <ccbaMnm>익산 천호동굴</ccbaMnm>
+        <ccceName>미상</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>965911.20269556704</cnX>
+        <cnY>1784050.0808631401</cnY>
+        <crltsnoNm>제177호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>87</sn>
+        <vlocName>전북특별자치도 익산시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설교통부 외</ccbaAdmin>
+        <ccbaAsdt>19660617</ccbaAsdt>
+        <ccbaMnm>삼척 대이리 동굴지대</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1135124.9400007499</cnX>
+        <cnY>1926521.9774404899</cnY>
+        <crltsnoNm>제178호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>88</sn>
+        <vlocName>강원특별자치도 삼척시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19660723</ccbaAsdt>
+        <ccbaMnm>낙동강 하류 철새 도래지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1128818.9115361201</cnX>
+        <cnY>1675018.6748603999</cnY>
+        <crltsnoNm>제179호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>89</sn>
+        <vlocName>부산광역시 강서구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 운문사</ccbaAdmin>
+        <ccbaAsdt>19660825</ccbaAsdt>
+        <ccbaMnm>청도 운문사 처진소나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1132213.74343577</cnX>
+        <cnY>1741550.89627106</cnY>
+        <crltsnoNm>제180호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 유전학</ctgrname>
+        <sn>90</sn>
+        <vlocName>경상북도 청도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문화재청 외</ccbaAdmin>
+        <ccbaAsdt>19661012</ccbaAsdt>
+        <ccbaMnm>한라산 천연보호구역</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>910099.74593875499</cnX>
+        <cnY>1486103.29383035</cnY>
+        <crltsnoNm>제182호</crltsnoNm>
+        <ctgrname>자연유산 / 천연보호구역 / 문화및자연결합성 / 경관및과학성</ctgrname>
+        <sn>91</sn>
+        <vlocName>제주특별자치도 제주도일원</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19670217</ccbaAsdt>
+        <ccbaMnm>고창 중산리 이팝나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>917865.43034030101</cnX>
+        <cnY>1707516.5756143299</cnY>
+        <crltsnoNm>제183호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>92</sn>
+        <vlocName>전북특별자치도 고창군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 선운사</ccbaAdmin>
+        <ccbaAsdt>19670217</ccbaAsdt>
+        <ccbaMnm>고창 선운사 동백나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>916170.85086454602,916275.10267255304,916663.80461691797</cnX>
+        <cnY>1722625.97058541,1722769.8305951499,1722914.39827832</cnY>
+        <crltsnoNm>제184호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 종교</ctgrname>
+        <sn>93</sn>
+        <vlocName>전북특별자치도 고창군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문화재청 외</ccbaAdmin>
+        <ccbaAsdt>19670718</ccbaAsdt>
+        <ccbaMnm>김해 신천리 이팝나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1121235.7623488801</cnX>
+        <cnY>1698631.3354778199</cnY>
+        <crltsnoNm>제185호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>94</sn>
+        <vlocName>경상남도 김해시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>19670718</ccbaAsdt>
+        <ccbaMnm>울릉 성인봉 원시림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1297358.4297718699</cnX>
+        <cnY>1950318.14253012</cnY>
+        <crltsnoNm>제189호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>95</sn>
+        <vlocName>경상북도 울릉군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>청송군 외</ccbaAdmin>
+        <ccbaAsdt>19670718</ccbaAsdt>
+        <ccbaMnm>청송 신기리 느티나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1137367.9981090899</cnX>
+        <cnY>1832845.55244279</cnY>
+        <crltsnoNm>제192호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>96</sn>
+        <vlocName>경상북도 청송군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>청송군 외</ccbaAdmin>
+        <ccbaAsdt>19680309</ccbaAsdt>
+        <ccbaMnm>청송 관리 왕버들</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1137584.3436239499</cnX>
+        <cnY>1828196.8107611199</cnY>
+        <crltsnoNm>제193호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>97</sn>
+        <vlocName>경상북도 청송군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문화재청</ccbaAdmin>
+        <ccbaAsdt>19680309</ccbaAsdt>
+        <ccbaMnm>창덕궁 향나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>954925.66077430605</cnX>
+        <cnY>1953446.4540167199</cnY>
+        <crltsnoNm>제194호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>98</sn>
+        <vlocName>서울특별시 종로구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>서귀포시 외</ccbaAdmin>
+        <ccbaAsdt>19680529</ccbaAsdt>
+        <ccbaMnm>제주 서귀포층 패류 화석산지</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>911900.03497879801</cnX>
+        <cnY>1472437.0823424601</cnY>
+        <crltsnoNm>제195호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>99</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림수산부 외</ccbaAdmin>
+        <ccbaAsdt>19680529</ccbaAsdt>
+        <ccbaMnm>의령 서동리 백악기 빗방울자국</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1068874.0095990801</cnX>
+        <cnY>1702908.45035473</cnY>
+        <crltsnoNm>제196호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>100</sn>
+        <vlocName>경상남도 의령군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 법주사</ccbaAdmin>
+        <ccbaAsdt>19680627</ccbaAsdt>
+        <ccbaMnm>보은 속리산 망개나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1031136.02398829</cnX>
+        <cnY>1838585.8063628001</cnY>
+        <crltsnoNm>제207호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>101</sn>
+        <vlocName>충청북도 보은군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>민광석</ccbaAdmin>
+        <ccbaAsdt>19680724</ccbaAsdt>
+        <ccbaMnm>여주 신접리 백로와 왜가리 번식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1016564.61668979</cnX>
+        <cnY>1925186.51950246</cnY>
+        <crltsnoNm>제209호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>102</sn>
+        <vlocName>경기도 여주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>나주정씨성암공문중</ccbaAdmin>
+        <ccbaAsdt>19680724</ccbaAsdt>
+        <ccbaMnm>무안 용월리 백로와 왜가리 번식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>907618.36992762005</cnX>
+        <cnY>1668935.2648761401</cnY>
+        <crltsnoNm>제211호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>103</sn>
+        <vlocName>전라남도 무안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>관매도리마을회 외</ccbaAdmin>
+        <ccbaAsdt>19681125</ccbaAsdt>
+        <ccbaMnm>진도 관매도 후박나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>866747.37197374401</cnX>
+        <cnY>1583817.1420396101</cnY>
+        <crltsnoNm>제212호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>104</sn>
+        <vlocName>전라남도 진도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>전라북도교육청</ccbaAdmin>
+        <ccbaAsdt>19681125</ccbaAsdt>
+        <ccbaMnm>진안 평지리 이팝나무 군</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>988155.93502678396</cnX>
+        <cnY>1748752.9160677299</cnY>
+        <crltsnoNm>제214호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>105</sn>
+        <vlocName>전북특별자치도 진안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAsdt>19681122</ccbaAsdt>
+        <ccbaMnm>산양</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1050543.70037319</cnX>
+        <cnY>2025460.5475740701</cnY>
+        <crltsnoNm>제217호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 진귀성</ctgrname>
+        <sn>106</sn>
+        <vlocName>강원특별자치도 양구군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>19690604</ccbaAsdt>
+        <ccbaMnm>영월 고씨굴</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1091597.6940242399</cnX>
+        <cnY>1903667.2887087299</cnY>
+        <crltsnoNm>제219호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>107</sn>
+        <vlocName>강원특별자치도 영월군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>김용회 외</ccbaAdmin>
+        <ccbaAsdt>19700109</ccbaAsdt>
+        <ccbaMnm>괴산 추점리 미선나무 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1039841.06323644</cnX>
+        <cnY>1873876.97125779</cnY>
+        <crltsnoNm>제220호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분류학</ctgrname>
+        <sn>108</sn>
+        <vlocName>충청북도 괴산군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>송규천</ccbaAdmin>
+        <ccbaAsdt>19700109</ccbaAsdt>
+        <ccbaMnm>괴산 율지리 미선나무 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1032844.44316861</cnX>
+        <cnY>1863767.8039235601</cnY>
+        <crltsnoNm>제221호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분류학</ctgrname>
+        <sn>109</sn>
+        <vlocName>충청북도 괴산군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>학교법인 명덕육영회 의</ccbaAdmin>
+        <ccbaAsdt>19700427</ccbaAsdt>
+        <ccbaMnm>함안 용산리 백악기 새발자국 화석산지</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1092020.1596858201</cnX>
+        <cnY>1702144.14842295</cnY>
+        <crltsnoNm>제222호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>110</sn>
+        <vlocName>경상남도 함안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설교통부 외</ccbaAdmin>
+        <ccbaAsdt>19700427</ccbaAsdt>
+        <ccbaMnm>영동 영국사 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1010020.00707657</cnX>
+        <cnY>1795737.0383423499</cnY>
+        <crltsnoNm>제223호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 종교</ctgrname>
+        <sn>111</sn>
+        <vlocName>충청북도 영동군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>19700427</ccbaAsdt>
+        <ccbaMnm>밀양 남명리 얼음골</ccbaMnm>
+        <ccceName>미상</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1134491.3643556</cnX>
+        <cnY>1731880.1436095899</cnY>
+        <crltsnoNm>제224호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>112</sn>
+        <vlocName>경상남도 밀양시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19700603</ccbaAsdt>
+        <ccbaMnm>구미 농소리 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1070007.56298859</cnX>
+        <cnY>1813118.5397616201</cnY>
+        <crltsnoNm>제225호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 종교</ctgrname>
+        <sn>113</sn>
+        <vlocName>경상북도 구미시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>삼척시 외</ccbaAdmin>
+        <ccbaAsdt>19700917</ccbaAsdt>
+        <ccbaMnm>삼척 초당굴</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1149147.3152360299</cnX>
+        <cnY>1932787.02274025</cnY>
+        <crltsnoNm>제226호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>114</sn>
+        <vlocName>강원특별자치도 삼척시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>해역부</ccbaAdmin>
+        <ccbaAsdt>19701104</ccbaAsdt>
+        <ccbaMnm>거제 연안 아비 도래지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1111130.8206803999</cnX>
+        <cnY>1633592.9051876699</cnY>
+        <crltsnoNm>제227호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>115</sn>
+        <vlocName>경상남도 거제시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설교통부 외</ccbaAdmin>
+        <ccbaAsdt>19701109</ccbaAsdt>
+        <ccbaMnm>양양 포매리 백로와 왜가리 번식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1111746.3757050701</cnX>
+        <cnY>1995262.77600371</cnY>
+        <crltsnoNm>제229호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>116</sn>
+        <vlocName>강원특별자치도 양양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>거창신씨양간공파종중 외</ccbaAdmin>
+        <ccbaAsdt>19701224</ccbaAsdt>
+        <ccbaMnm>남양주 양지리 향나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>972824.57643551205</cnX>
+        <cnY>1965640.8018028501</cnY>
+        <crltsnoNm>제232호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>117</sn>
+        <vlocName>경기도 남양주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>19710913</ccbaAsdt>
+        <ccbaMnm>거제 학동리 동백나무 숲 및 팔색조 번식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1104122.15421075</cnX>
+        <cnY>1641430.3553798399</cnY>
+        <crltsnoNm>제233호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>118</sn>
+        <vlocName>경상남도 거제시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림수산부 외</ccbaAdmin>
+        <ccbaAsdt>19710913</ccbaAsdt>
+        <ccbaMnm>양산 신전리 이팝나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1141762.4488214799</cnX>
+        <cnY>1716167.42853505</cnY>
+        <crltsnoNm>제234호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>119</sn>
+        <vlocName>경상남도 양산시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>광양시 외</ccbaAdmin>
+        <ccbaAsdt>19710913</ccbaAsdt>
+        <ccbaMnm>광양읍수와 이팝나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1008404.59366498</cnX>
+        <cnY>1663935.39194494</cnY>
+        <crltsnoNm>제235호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>120</sn>
+        <vlocName>전라남도 광양시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>제주특별자치도 외</ccbaAdmin>
+        <ccbaAsdt>19710930</ccbaAsdt>
+        <ccbaMnm>제주 한림 용암동굴지대(소천굴, 황금굴, 협재굴)</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>882917.04697111202,883647.87031823699</cnX>
+        <cnY>1489052.2920894399,1487205.8906000799</cnY>
+        <crltsnoNm>제236호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>121</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문화재청 외</ccbaAdmin>
+        <ccbaAsdt>19711215</ccbaAsdt>
+        <ccbaMnm>울릉 사동 흑비둘기 서식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1300018.43753438</cnX>
+        <cnY>1947583.86341394</cnY>
+        <crltsnoNm>제237호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>122</sn>
+        <vlocName>경상북도 울릉군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부</ccbaAdmin>
+        <ccbaAsdt>19720501</ccbaAsdt>
+        <ccbaMnm>금강의 어름치</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1014303.53747804</cnX>
+        <cnY>1807025.42583089</cnY>
+        <crltsnoNm>제238호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>123</sn>
+        <vlocName>충청북도 옥천군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>금탑사 외</ccbaAdmin>
+        <ccbaAsdt>19720802</ccbaAsdt>
+        <ccbaMnm>고흥 금탑사 비자나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>980505.91062558803</cnX>
+        <cnY>1616546.7726984599</cnY>
+        <crltsnoNm>제239호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 종교</ctgrname>
+        <sn>124</sn>
+        <vlocName>전라남도 고흥군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>동대문구</ccbaAdmin>
+        <ccbaAsdt>19720802</ccbaAsdt>
+        <ccbaMnm>서울 선농단 향나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>958680.83229828696</cnX>
+        <cnY>1953588.37492392</cnY>
+        <crltsnoNm>제240호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>125</sn>
+        <vlocName>서울특별시 동대문구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>윤성철</ccbaAdmin>
+        <ccbaAsdt>19720802</ccbaAsdt>
+        <ccbaMnm>해남 녹우단 비자나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>919966.98849062505</cnX>
+        <cnY>1617757.9029560499</cnY>
+        <crltsnoNm>제241호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>126</sn>
+        <vlocName>전라남도 해남군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>19730620</ccbaAsdt>
+        <ccbaMnm>소백산 주목 군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1087188.7198049601</cnX>
+        <cnY>1885131.0959788801</cnY>
+        <crltsnoNm>제244호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>127</sn>
+        <vlocName>충청북도 단양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국방부 외</ccbaAdmin>
+        <ccbaAsdt>19730710</ccbaAsdt>
+        <ccbaMnm>철원 철새 도래지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>974335.28630357096,975037.90456247097,984016.05011046398</cnX>
+        <cnY>2031538.12695087,2031964.1856319399,2030507.20366646</cnY>
+        <crltsnoNm>제245호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>128</sn>
+        <vlocName>강원특별자치도 철원군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>19730713</ccbaAsdt>
+        <ccbaMnm>대암산·대우산 천연보호구역</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1053452.2849860601</cnX>
+        <cnY>2026854.50976913</cnY>
+        <crltsnoNm>제246호</crltsnoNm>
+        <ctgrname>자연유산 / 천연보호구역 / 자연과학성 / 특수생물상</ctgrname>
+        <sn>129</sn>
+        <vlocName>강원특별자치도 양구군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>19730713</ccbaAsdt>
+        <ccbaMnm>향로봉·건봉산 천연보호구역</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1071996.99776482</cnX>
+        <cnY>2043066.9256211999</cnY>
+        <crltsnoNm>제247호</crltsnoNm>
+        <ctgrname>자연유산 / 천연보호구역 / 자연과학성 / 특수생물상</ctgrname>
+        <sn>130</sn>
+        <vlocName>강원특별자치도 인제군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>강릉최씨 압곡대종회 외</ccbaAdmin>
+        <ccbaAsdt>19731005</ccbaAsdt>
+        <ccbaMnm>횡성 압곡리 백로와 왜가리 번식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1034163.10621516,1034237.55055798</cnX>
+        <cnY>1943777.2624188799,1943985.50285806</cnY>
+        <crltsnoNm>제248호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>131</sn>
+        <vlocName>강원특별자치도 횡성군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19740906</ccbaAsdt>
+        <ccbaMnm>무주 오산리 구상화강편마암</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1016801.38975001</cnX>
+        <cnY>1782528.76420328</cnY>
+        <crltsnoNm>제249호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>132</sn>
+        <vlocName>전북특별자치도 무주군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19750225</ccbaAsdt>
+        <ccbaMnm>한강 하류 재두루미 도래지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>927183.83911137201</cnX>
+        <cnY>1972726.12197657</cnY>
+        <crltsnoNm>제250호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>133</sn>
+        <vlocName>경기도 김포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문화재청</ccbaAdmin>
+        <ccbaAsdt>19750905</ccbaAsdt>
+        <ccbaMnm>창덕궁 다래나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>954898.22677057399</cnX>
+        <cnY>1954255.6109477701</cnY>
+        <crltsnoNm>제251호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>134</sn>
+        <vlocName>서울특별시 종로구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>한산이씨 대산파문중</ccbaAdmin>
+        <ccbaAsdt>19750927</ccbaAsdt>
+        <ccbaMnm>안동 구리 측백나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1105622.5341325901</cnX>
+        <cnY>1834574.91437782</cnY>
+        <crltsnoNm>제252호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>135</sn>
+        <vlocName>경상북도 안동시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>이천시 외</ccbaAdmin>
+        <ccbaAsdt>19760628</ccbaAsdt>
+        <ccbaMnm>이천 신대리 백송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>996466.38989471796</cnX>
+        <cnY>1924561.9950681799</cnY>
+        <crltsnoNm>제253호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>136</sn>
+        <vlocName>경기도 이천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국무총리비서실</ccbaAdmin>
+        <ccbaAsdt>19760810</ccbaAsdt>
+        <ccbaMnm>서울 삼청동 등나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>954171.11363612104</cnX>
+        <cnY>1954056.2892209999</cnY>
+        <crltsnoNm>제254호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>137</sn>
+        <vlocName>서울특별시 종로구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국무총리비서실</ccbaAdmin>
+        <ccbaAsdt>19760810</ccbaAsdt>
+        <ccbaMnm>서울 삼청동 측백나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>954190.32451166702</cnX>
+        <cnY>1954000.2157135301</cnY>
+        <crltsnoNm>제255호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>138</sn>
+        <vlocName>서울특별시 종로구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>단양군 외</ccbaAdmin>
+        <ccbaAsdt>19760924</ccbaAsdt>
+        <ccbaMnm>단양 고수동굴</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1078511.32871494</cnX>
+        <cnY>1888298.6300602001</cnY>
+        <crltsnoNm>제256호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>139</sn>
+        <vlocName>충청북도 단양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>19790214</ccbaAsdt>
+        <ccbaMnm>평창 백룡동굴</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1096031.1698497799</cnX>
+        <cnY>1919697.4504281699</cnY>
+        <crltsnoNm>제260호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>140</sn>
+        <vlocName>강원특별자치도 평창군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>단양군 외</ccbaAdmin>
+        <ccbaAsdt>19790621</ccbaAsdt>
+        <ccbaMnm>단양 온달동굴</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1088029.0705468201</cnX>
+        <cnY>1896198.7901504701</cnY>
+        <crltsnoNm>제261호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>141</sn>
+        <vlocName>충청북도 단양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>단양군 외</ccbaAdmin>
+        <ccbaAsdt>19790621</ccbaAsdt>
+        <ccbaMnm>단양 노동동굴</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1078417.92641707</cnX>
+        <cnY>1883980.9002399701</cnY>
+        <crltsnoNm>제262호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>142</sn>
+        <vlocName>충청북도 단양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>㈜산굼부리 외</ccbaAdmin>
+        <ccbaAsdt>19790621</ccbaAsdt>
+        <ccbaMnm>제주 산굼부리 분화구</ccbaMnm>
+        <ccceName>미상</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>925075.88272444299</cnX>
+        <cnY>1493687.74986229</cnY>
+        <crltsnoNm>제263호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>143</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>19801004</ccbaAsdt>
+        <ccbaMnm>괴산 사담리 망개나무 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1027681.14804017</cnX>
+        <cnY>1846782.4639699401</cnY>
+        <crltsnoNm>제266호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>144</sn>
+        <vlocName>충청북도 괴산군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>재경부 외</ccbaAdmin>
+        <ccbaAsdt>19801027</ccbaAsdt>
+        <ccbaMnm>부산 전포동 구상반려암</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1143093.8025925399</cnX>
+        <cnY>1686439.1108568199</cnY>
+        <crltsnoNm>제267호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>145</sn>
+        <vlocName>부산광역시 부산진구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>장흥 어산리 푸조나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>945540.54498147301</cnX>
+        <cnY>1625400.0511093501</cnY>
+        <crltsnoNm>제268호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>146</sn>
+        <vlocName>전라남도 장흥군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>부산 수영구</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>부산 좌수영성지 곰솔</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1147063.21783518</cnX>
+        <cnY>1687324.12463403</cnY>
+        <crltsnoNm>제270호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 역사</ctgrname>
+        <sn>147</sn>
+        <vlocName>부산광역시 수영구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건영아파트</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>서울 신림동 굴참나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>948421.50373898796</cnX>
+        <cnY>1941383.77810296</cnY>
+        <crltsnoNm>제271호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>148</sn>
+        <vlocName>서울특별시 관악구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>삼척 갈전리 당숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1123468.4486409701</cnX>
+        <cnY>1932221.6387812099</cnY>
+        <crltsnoNm>제272호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>149</sn>
+        <vlocName>강원특별자치도 삼척시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림수산부 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>영풍 단촌리 느티나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1094863.4572351801</cnX>
+        <cnY>1876848.02212054</cnY>
+        <crltsnoNm>제273호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>150</sn>
+        <vlocName>경상북도 영주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>영풍 태장리 느티나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1093676.10595415</cnX>
+        <cnY>1878641.78271166</cnY>
+        <crltsnoNm>제274호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>151</sn>
+        <vlocName>경상북도 영주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>안동시</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>안동 사신리 느티나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1113610.17710898</cnX>
+        <cnY>1856207.6292949801</cnY>
+        <crltsnoNm>제275호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>152</sn>
+        <vlocName>경상북도 안동시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설교통부 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>양주 황방리 느티나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>955661.26468219305</cnX>
+        <cnY>1991495.1547284999</cnY>
+        <crltsnoNm>제278호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>153</sn>
+        <vlocName>경기도 양주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>원성 대안리 느티나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1033938.68583359</cnX>
+        <cnY>1921771.16405193</cnY>
+        <crltsnoNm>제279호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>154</sn>
+        <vlocName>강원특별자치도 원주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설교통부 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>김제 행촌리 느티나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>951697.29440297803</cnX>
+        <cnY>1748322.45872375</cnY>
+        <crltsnoNm>제280호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>155</sn>
+        <vlocName>전북특별자치도 김제시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>우봉래 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>남원 진기리 느티나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>992941.44586609805</cnX>
+        <cnY>1722225.9264958899</cnY>
+        <crltsnoNm>제281호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>156</sn>
+        <vlocName>전북특별자치도 남원시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>영암군 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>영암 월곡리 느티나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>922166.72596933902</cnX>
+        <cnY>1643052.1347910899</cnY>
+        <crltsnoNm>제283호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>157</sn>
+        <vlocName>전라남도 영암군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>전라남도교육감</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>담양 대치리 느티나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>944432.46966124699</cnX>
+        <cnY>1698230.9968178601</cnY>
+        <crltsnoNm>제284호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>158</sn>
+        <vlocName>전라남도 담양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>황성욱</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>영풍 병산리 갈참나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1098756.51124009</cnX>
+        <cnY>1881220.53330041</cnY>
+        <crltsnoNm>제285호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>159</sn>
+        <vlocName>경상북도 영주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국방부</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>파주 무건리 물푸레나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>948247.46531739796</cnX>
+        <cnY>1991128.1078085899</cnY>
+        <crltsnoNm>제286호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>160</sn>
+        <vlocName>경기도 파주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>사천시</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>사천 성내리 비자나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1041933.79364625</cnX>
+        <cnY>1673661.1926788399</cnY>
+        <crltsnoNm>제287호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>161</sn>
+        <vlocName>경상남도 사천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설교통부 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>안동 대곡리 굴참나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1131903.14364025</cnX>
+        <cnY>1851572.2861154899</cnY>
+        <crltsnoNm>제288호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>162</sn>
+        <vlocName>경상북도 안동시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림수산부 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>합천 화양리 소나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1056672.84471471</cnX>
+        <cnY>1744634.44809789</cnY>
+        <crltsnoNm>제289호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>163</sn>
+        <vlocName>경상남도 합천군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>김촌지양 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>무주 삼공리 반송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1024943.8743248</cnX>
+        <cnY>1768321.0685167699</cnY>
+        <crltsnoNm>제291호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 유전학</ctgrname>
+        <sn>164</sn>
+        <vlocName>전북특별자치도 무주군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림수산부 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>문경 화산리 반송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1041434.77310013</cnX>
+        <cnY>1842927.75724544</cnY>
+        <crltsnoNm>제292호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>165</sn>
+        <vlocName>경상북도 문경시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>상주시</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>상주 상현리 반송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1040542.11047261</cnX>
+        <cnY>1828593.9557159599</cnY>
+        <crltsnoNm>제293호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>166</sn>
+        <vlocName>경상북도 상주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림수산부 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>예천 천향리 석송령</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1088579.1577673701</cnX>
+        <cnY>1859231.487488</cnY>
+        <crltsnoNm>제294호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>167</sn>
+        <vlocName>경상북도 예천군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>청도군 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>청도 동산리 처진소나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1123028.3917169001</cnX>
+        <cnY>1742357.41593648</cnY>
+        <crltsnoNm>제295호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 유전학</ctgrname>
+        <sn>168</sn>
+        <vlocName>경상북도 청도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설교통부 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>김제 종덕리 왕버들</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>951274.70445445401</cnX>
+        <cnY>1749522.00188604</cnY>
+        <crltsnoNm>제296호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>169</sn>
+        <vlocName>전북특별자치도 김제시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>청도 덕촌리 털왕버들</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1097935.9634565299</cnX>
+        <cnY>1746042.0408864699</cnY>
+        <crltsnoNm>제298호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>170</sn>
+        <vlocName>경상북도 청도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>남해군 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>남해 창선도 왕후박나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1046825.05571239</cnX>
+        <cnY>1658052.0585436299</cnY>
+        <crltsnoNm>제299호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>171</sn>
+        <vlocName>경상남도 남해군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>김녕김씨충의공파김천금릉종중 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>금릉 조룡리 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1042541.43019939</cnX>
+        <cnY>1772962.63471624</cnY>
+        <crltsnoNm>제300호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 종교</ctgrname>
+        <sn>172</sn>
+        <vlocName>경상북도 김천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림수산부 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>청도 대전리 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1102624.5014079399</cnX>
+        <cnY>1740908.73058065</cnY>
+        <crltsnoNm>제301호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>173</sn>
+        <vlocName>경상북도 청도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>의령군 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>의령 세간리 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1076639.5054726</cnX>
+        <cnY>1716222.31311297</cnY>
+        <crltsnoNm>제302호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>174</sn>
+        <vlocName>경상남도 의령군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>화순 야사리 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>961536.06988809397</cnX>
+        <cnY>1679583.00142529</cnY>
+        <crltsnoNm>제303호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>175</sn>
+        <vlocName>전라남도 화순군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>강화군</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>강화 볼음도 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>883133.575159717</cnX>
+        <cnY>1964940.69680493</cnY>
+        <crltsnoNm>제304호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>176</sn>
+        <vlocName>인천광역시 강화군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>정현수</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>청주 공북리 음나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>983342.27083564503</cnX>
+        <cnY>1849870.96753535</cnY>
+        <crltsnoNm>제305호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>177</sn>
+        <vlocName>충청북도 충북전역</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>김해시 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>김해 천곡리 이팝나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1120915.5049040101</cnX>
+        <cnY>1693857.24817534</cnY>
+        <crltsnoNm>제307호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>178</sn>
+        <vlocName>경상남도 김해시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>부산시</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>부산 구포동 당숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1137212.15502362</cnX>
+        <cnY>1690947.82588442</cnY>
+        <crltsnoNm>제309호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>179</sn>
+        <vlocName>부산광역시 북구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>부산시</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>부산 좌수영성지 푸조나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1147024.2731729499</cnX>
+        <cnY>1687296.38295261</cnY>
+        <crltsnoNm>제311호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>180</sn>
+        <vlocName>부산광역시 수영구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>남만균 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>울진 화성리 향나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1167307.1438401099</cnX>
+        <cnY>1895411.66059674</cnY>
+        <crltsnoNm>제312호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>181</sn>
+        <vlocName>경상북도 울진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>영양남씨 청송문중</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>청송 장전리 향나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1133035.5671773199</cnX>
+        <cnY>1810724.1978044</cnY>
+        <crltsnoNm>제313호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>182</sn>
+        <vlocName>경상북도 청송군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>이세준</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>안동 주하리 뚝향나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1110975.59876959</cnX>
+        <cnY>1849788.2268272999</cnY>
+        <crltsnoNm>제314호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>183</sn>
+        <vlocName>경상북도 안동시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>인천시 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>인천 신현동 회화나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>926427.15751256095</cnX>
+        <cnY>1946687.5584326701</cnY>
+        <crltsnoNm>제315호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>184</sn>
+        <vlocName>인천광역시 서구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>이강화</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>당진 삼월리 회화나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>927413.61917059799</cnX>
+        <cnY>1882805.8015288101</cnY>
+        <crltsnoNm>제317호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>185</sn>
+        <vlocName>충청남도 당진시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>경주시 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>월성 육통리 회화나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1154552.09816989</cnX>
+        <cnY>1781720.61991723</cnY>
+        <crltsnoNm>제318호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>186</sn>
+        <vlocName>경상북도 경주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>함안 영동리 회화나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1093719.34114863</cnX>
+        <cnY>1704532.3030345</cnY>
+        <crltsnoNm>제319호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>187</sn>
+        <vlocName>경상남도 함안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>부여군 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>부여 주암리 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>934867.00904948299</cnX>
+        <cnY>1811013.2286836</cnY>
+        <crltsnoNm>제320호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>188</sn>
+        <vlocName>충청남도 부여군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>강화최씨 천곡종중 외</ccbaAdmin>
+        <ccbaAsdt>19821109</ccbaAsdt>
+        <ccbaMnm>연기 봉산동 향나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>980075.96420414769</cnX>
+        <cnY>1845208.9301392115</cnY>
+        <crltsnoNm>제321호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>189</sn>
+        <vlocName>세종특별자치시 세종특별자치시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설교통부 외</ccbaAdmin>
+        <ccbaAsdt>19821120</ccbaAsdt>
+        <ccbaMnm>무주 일원 반딧불이와 그 먹이 서식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1013266.92644902,1028891.71197966,1035778.15917677</cnX>
+        <cnY>1774629.58308337,1777465.33837213,1772465.30882189</cnY>
+        <crltsnoNm>제322호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 특수성</ctgrname>
+        <sn>190</sn>
+        <vlocName>전북특별자치도 무주군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>해양수산부 외</ccbaAdmin>
+        <ccbaAsdt>19821120</ccbaAsdt>
+        <ccbaMnm>신안 칠발도 바닷새류(바다제비, 슴새, 칼새) 번식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>845350.54806934902</cnX>
+        <cnY>1645682.88709987</cnY>
+        <crltsnoNm>제332호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>191</sn>
+        <vlocName>전라남도 신안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>추자초등학교 운영위원회</ccbaAdmin>
+        <ccbaAsdt>19821120</ccbaAsdt>
+        <ccbaMnm>제주 사수도 바닷새류(흑비둘기, 슴새) 번식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>920391.172235662</cnX>
+        <cnY>1547855.8195671199</cnY>
+        <crltsnoNm>제333호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>192</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>세경건설 주식회사</ccbaAdmin>
+        <ccbaAsdt>19821120</ccbaAsdt>
+        <ccbaMnm>태안 난도 괭이갈매기 번식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>862868.100325651</cnX>
+        <cnY>1847469.93510146</cnY>
+        <crltsnoNm>제334호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>193</sn>
+        <vlocName>충청남도 태안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>해양수산부</ccbaAdmin>
+        <ccbaAsdt>19821120</ccbaAsdt>
+        <ccbaMnm>통영 홍도 괭이갈매기 번식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1113100.6780550899</cnX>
+        <cnY>1616652.2314650801</cnY>
+        <crltsnoNm>제335호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>194</sn>
+        <vlocName>경상남도 통영시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>해양수산부</ccbaAdmin>
+        <ccbaAsdt>19821120</ccbaAsdt>
+        <ccbaMnm>독도 천연보호구역</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1387213.7479858408,1387640.2590418367</cnX>
+        <cnY>1924777.2990705743,1924584.0578154302</cnY>
+        <crltsnoNm>제336호</crltsnoNm>
+        <ctgrname>자연유산 / 천연보호구역 / 문화및자연결합성 / 영토적상징성</ctgrname>
+        <sn>195</sn>
+        <vlocName>경상북도 울릉군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>교육과학기술부</ccbaAdmin>
+        <ccbaAsdt>19830823</ccbaAsdt>
+        <ccbaMnm>제원 송계리 망개나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1050392.4653410299</cnX>
+        <cnY>1874279.37684074</cnY>
+        <crltsnoNm>제337호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>196</sn>
+        <vlocName>충청북도 제천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>해역부</ccbaAdmin>
+        <ccbaAsdt>19830823</ccbaAsdt>
+        <ccbaMnm>완도 미라리 상록수림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>923469.64867206896</cnX>
+        <cnY>1572755.44498008</cnY>
+        <crltsnoNm>제339호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>197</sn>
+        <vlocName>전라남도 완도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>재정경제부 외</ccbaAdmin>
+        <ccbaAsdt>19830823</ccbaAsdt>
+        <ccbaMnm>완도 맹선리 상록수림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>920434.59076131997</cnX>
+        <cnY>1573508.46043971</cnY>
+        <crltsnoNm>제340호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>198</sn>
+        <vlocName>전라남도 완도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>신안군</ccbaAdmin>
+        <ccbaAsdt>19840813</ccbaAsdt>
+        <ccbaMnm>신안 구굴도 바닷새류(뿔쇠오리, 바다제비, 슴새) 번식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>780269.84777380305</cnX>
+        <cnY>1582318.5128514401</cnY>
+        <crltsnoNm>제341호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>199</sn>
+        <vlocName>전라남도 신안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19840814</ccbaAsdt>
+        <ccbaMnm>제주 어음리 빌레못동굴</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>892770.79671578598</cnX>
+        <cnY>1490949.2822318999</cnY>
+        <crltsnoNm>제342호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>200</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>경상남도 교육감 외</ccbaAdmin>
+        <ccbaAsdt>19841119</ccbaAsdt>
+        <ccbaMnm>통영 욕지도 모밀잣밤나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1070455.8113990901,1070726.51759391</cnX>
+        <cnY>1627008.6924047901,1627049.19230217</cnY>
+        <crltsnoNm>제343호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>201</sn>
+        <vlocName>경상남도 통영시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19841119</ccbaAsdt>
+        <ccbaMnm>통영 우도 생달나무와 후박나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1077495.4754713201</cnX>
+        <cnY>1629672.0293131501</cnY>
+        <crltsnoNm>제344호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>202</sn>
+        <vlocName>경상남도 통영시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>김금돌 외</ccbaAdmin>
+        <ccbaAsdt>19841119</ccbaAsdt>
+        <ccbaMnm>통영 추도 후박나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1072238.10112318</cnX>
+        <cnY>1640690.8418405701</cnY>
+        <crltsnoNm>제345호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>203</sn>
+        <vlocName>경상남도 통영시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>광주안씨 경사제종중</ccbaAdmin>
+        <ccbaAsdt>19841119</ccbaAsdt>
+        <ccbaMnm>함안 대송리 늪지식물</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1076122.7442640101</cnX>
+        <cnY>1705173.33819773</cnY>
+        <crltsnoNm>제346호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>204</sn>
+        <vlocName>경상남도 함안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문화재청 외</ccbaAdmin>
+        <ccbaAsdt>19860208</ccbaAsdt>
+        <ccbaMnm>제주의 제주마</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>904901.69612284598,905918.64041730901,916750.88348624995</cnX>
+        <cnY>1493721.7973283599,1494533.3755179599,1493100.56284277</cnY>
+        <crltsnoNm>제347호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>205</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>19860417</ccbaAsdt>
+        <ccbaMnm>정선 반론산 철쭉나무 및 분취류 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1110981.69030885</cnX>
+        <cnY>1939134.3197569801</cnY>
+        <crltsnoNm>제348호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>206</sn>
+        <vlocName>강원특별자치도 정선군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문화재청</ccbaAdmin>
+        <ccbaAsdt>19880430</ccbaAsdt>
+        <ccbaMnm>영월 청령포 관음송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1083777.7997717001</cnX>
+        <cnY>1908905.8776869101</cnY>
+        <crltsnoNm>제349호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>207</sn>
+        <vlocName>강원특별자치도 영월군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>강원도</ccbaAdmin>
+        <ccbaAsdt>19880430</ccbaAsdt>
+        <ccbaMnm>속초 설악동 소나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1089137.63236878</cnX>
+        <cnY>2019102.3625808801</cnY>
+        <crltsnoNm>제351호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>208</sn>
+        <vlocName>강원특별자치도 속초시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>충청북도</ccbaAdmin>
+        <ccbaAsdt>19880430</ccbaAsdt>
+        <ccbaMnm>보은 서원리 소나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1028358.89608978</cnX>
+        <cnY>1831422.45225887</cnY>
+        <crltsnoNm>제352호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>209</sn>
+        <vlocName>충청북도 보은군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 선운사</ccbaAdmin>
+        <ccbaAsdt>19880430</ccbaAsdt>
+        <ccbaMnm>고창 선운사 도솔암 장사송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>915189.91101661802</cnX>
+        <cnY>1720990.3561358601</cnY>
+        <crltsnoNm>제354호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>210</sn>
+        <vlocName>전북특별자치도 고창군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>전주시 외</ccbaAdmin>
+        <ccbaAsdt>19880430</ccbaAsdt>
+        <ccbaMnm>전주 삼천동 곰솔</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>966436.36606224999</cnX>
+        <cnY>1756049.5608350099</cnY>
+        <crltsnoNm>제355호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>211</sn>
+        <vlocName>전북특별자치도 전주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>백동산</ccbaAdmin>
+        <ccbaAsdt>19880430</ccbaAsdt>
+        <ccbaMnm>장흥 옥당리 효자송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>948062.58641104505</cnX>
+        <cnY>1617807.2979836899</cnY>
+        <crltsnoNm>제356호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>212</sn>
+        <vlocName>전라남도 장흥군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림수산부 외</ccbaAdmin>
+        <ccbaAsdt>19880430</ccbaAsdt>
+        <ccbaMnm>구미 독동리 반송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1074160.7059373399</cnX>
+        <cnY>1805187.7186553699</cnY>
+        <crltsnoNm>제357호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>213</sn>
+        <vlocName>경상북도 구미시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설교통부 외</ccbaAdmin>
+        <ccbaAsdt>19880430</ccbaAsdt>
+        <ccbaMnm>함양 목현리 구송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1022954.17454475</cnX>
+        <cnY>1720521.9194751</cnY>
+        <crltsnoNm>제358호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>214</sn>
+        <vlocName>경상남도 함양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>의령남씨 양정종중</ccbaAdmin>
+        <ccbaAsdt>19880430</ccbaAsdt>
+        <ccbaMnm>의령 성황리 소나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1076997.77565161</cnX>
+        <cnY>1709999.3742323299</cnY>
+        <crltsnoNm>제359호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>215</sn>
+        <vlocName>경상남도 의령군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>19880823</ccbaAsdt>
+        <ccbaMnm>옹진 신도 노랑부리백로와 괭이갈매기 번식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>871417.96616947732</cnX>
+        <cnY>1946364.8421614028</cnY>
+        <crltsnoNm>제360호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>216</sn>
+        <vlocName>인천광역시 옹진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>신금마을회</ccbaAdmin>
+        <ccbaAsdt>19890114</ccbaAsdt>
+        <ccbaMnm>고흥 외나로도 상록수림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>997143.965836933</cnX>
+        <cnY>1608653.8700909501</cnY>
+        <crltsnoNm>제362호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>217</sn>
+        <vlocName>전라남도 고흥군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>선흥리마을회 외</ccbaAdmin>
+        <ccbaAsdt>19890916</ccbaAsdt>
+        <ccbaMnm>삼척 궁촌리 음나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1156041.0054659999</cnX>
+        <cnY>1925407.9477357799</cnY>
+        <crltsnoNm>제363호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>218</sn>
+        <vlocName>강원특별자치도 삼척시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>영동군</ccbaAdmin>
+        <ccbaAsdt>19900802</ccbaAsdt>
+        <ccbaMnm>영동 매천리 미선나무 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1025343.89305961</cnX>
+        <cnY>1797096.0759598899</cnY>
+        <crltsnoNm>제364호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분류학</ctgrname>
+        <sn>219</sn>
+        <vlocName>충청북도 영동군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 보석사</ccbaAdmin>
+        <ccbaAsdt>19900802</ccbaAsdt>
+        <ccbaMnm>금산 보석사 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>997736.296071055</cnX>
+        <cnY>1784156.45563932</cnY>
+        <crltsnoNm>제365호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>220</sn>
+        <vlocName>충청남도 금산군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>담양군 외</ccbaAdmin>
+        <ccbaAsdt>19911127</ccbaAsdt>
+        <ccbaMnm>담양 관방제림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>953752.16898734705</cnX>
+        <cnY>1703244.61517049</cnY>
+        <crltsnoNm>제366호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>221</sn>
+        <vlocName>전라남도 담양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19911127</ccbaAsdt>
+        <ccbaMnm>고창 삼인리 송악</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>917180.68197933596</cnX>
+        <cnY>1723285.14241609</cnY>
+        <crltsnoNm>제367호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>222</sn>
+        <vlocName>전북특별자치도 고창군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>19921026</ccbaAsdt>
+        <ccbaMnm>부안 미선나무 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>915383.86654731201,919670.93565749005</cnX>
+        <cnY>1742458.4210365801,1740338.0098015401</cnY>
+        <crltsnoNm>제370호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>223</sn>
+        <vlocName>전북특별자치도 부안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>포항시</ccbaAdmin>
+        <ccbaAsdt>19921223</ccbaAsdt>
+        <ccbaMnm>포항 발산리 모감주나무와 병아리꽃나무 군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1181722.8707618001</cnX>
+        <cnY>1784944.5564862101</cnY>
+        <crltsnoNm>제371호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>224</sn>
+        <vlocName>경상북도 포항시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>강원도 교육감 외</ccbaAdmin>
+        <ccbaAsdt>19921223</ccbaAsdt>
+        <ccbaMnm>양구 개느삼 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1045247.80357019,1047174.39506745</cnX>
+        <cnY>2016632.2708992099,2022663.3543937199</cnY>
+        <crltsnoNm>제372호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>225</sn>
+        <vlocName>강원특별자치도 양구군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>의성군</ccbaAdmin>
+        <ccbaAsdt>19930601</ccbaAsdt>
+        <ccbaMnm>의성 제오리 공룡발자국 화석산지</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1107463.6060317101</cnX>
+        <cnY>1810423.7432391201</cnY>
+        <crltsnoNm>제373호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>226</sn>
+        <vlocName>경상북도 의성군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문화재청 외</ccbaAdmin>
+        <ccbaAsdt>19930819</ccbaAsdt>
+        <ccbaMnm>제주 평대리 비자나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>935751.68366499594</cnX>
+        <cnY>1499719.01188151</cnY>
+        <crltsnoNm>제374호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>227</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>납읍리새마을회</ccbaAdmin>
+        <ccbaAsdt>19930819</ccbaAsdt>
+        <ccbaMnm>제주 납읍리 난대림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>891301.91408213996</cnX>
+        <cnY>1494188.17264538</cnY>
+        <crltsnoNm>제375호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>228</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>사계리마을회</ccbaAdmin>
+        <ccbaAsdt>19930819</ccbaAsdt>
+        <ccbaMnm>제주 산방산 암벽식물지대</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>889468.84938482998</cnX>
+        <cnY>1472624.28828715</cnY>
+        <crltsnoNm>제376호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>229</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림부</ccbaAdmin>
+        <ccbaAsdt>19930819</ccbaAsdt>
+        <ccbaMnm>제주 안덕계곡 상록수림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>893270.31108179898</cnX>
+        <cnY>1474505.5788126099</cnY>
+        <crltsnoNm>제377호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>230</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19930819</ccbaAsdt>
+        <ccbaMnm>제주 천제연 난대림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>899280.72843607003</cnX>
+        <cnY>1474187.8096950499</cnY>
+        <crltsnoNm>제378호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>231</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>제주특별자치도 외</ccbaAdmin>
+        <ccbaAsdt>19930819</ccbaAsdt>
+        <ccbaMnm>제주 천지연 난대림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>912192.67548483203</cnX>
+        <cnY>1473098.18798658</cnY>
+        <crltsnoNm>제379호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>232</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>황영희</ccbaAdmin>
+        <ccbaAsdt>19930819</ccbaAsdt>
+        <ccbaMnm>진안 마이산 줄사철나무 군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>992239.64557431405</cnX>
+        <cnY>1751456.9865043</cnY>
+        <crltsnoNm>제380호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>233</sn>
+        <vlocName>전북특별자치도 진안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>홍삼만 외</ccbaAdmin>
+        <ccbaAsdt>19961230</ccbaAsdt>
+        <ccbaMnm>이천 도립리 반룡송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>997825.13170475594</cnX>
+        <cnY>1926849.5288263599</cnY>
+        <crltsnoNm>제381호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>234</sn>
+        <vlocName>경기도 이천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림수산부 외</ccbaAdmin>
+        <ccbaAsdt>19961230</ccbaAsdt>
+        <ccbaMnm>괴산 오가리 느티나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1040736.87180351</cnX>
+        <cnY>1869919.1571523501</cnY>
+        <crltsnoNm>제382호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>235</sn>
+        <vlocName>충청북도 괴산군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>괴산군 외</ccbaAdmin>
+        <ccbaAsdt>19961230</ccbaAsdt>
+        <ccbaMnm>괴산 적석리 소나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1041703.94559397</cnX>
+        <cnY>1862476.4857759499</cnY>
+        <crltsnoNm>제383호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>236</sn>
+        <vlocName>충청북도 괴산군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>제주특별자치도 외</ccbaAdmin>
+        <ccbaAsdt>19961230</ccbaAsdt>
+        <ccbaMnm>제주 당처물동굴</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>933592.88445124996</cnX>
+        <cnY>1507437.65829066</cnY>
+        <crltsnoNm>제384호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>237</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설교통부 외</ccbaAdmin>
+        <ccbaAsdt>19971230</ccbaAsdt>
+        <ccbaMnm>강진 성동리 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>937739.47957447905</cnX>
+        <cnY>1636403.17724088</cnY>
+        <crltsnoNm>제385호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 역사</ctgrname>
+        <sn>238</sn>
+        <vlocName>전라남도 강진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>진안군 외</ccbaAdmin>
+        <ccbaAsdt>19971230</ccbaAsdt>
+        <ccbaMnm>진안 은수사 청실배나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>992286.46773460403</cnX>
+        <cnY>1751442.70597237</cnY>
+        <crltsnoNm>제386호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 유전학</ctgrname>
+        <sn>239</sn>
+        <vlocName>전북특별자치도 진안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>임실군</ccbaAdmin>
+        <ccbaAsdt>19971230</ccbaAsdt>
+        <ccbaMnm>임실 덕천리 가침박달 군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>979859.90392277401</cnX>
+        <cnY>1741661.8138848401</cnY>
+        <crltsnoNm>제387호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>240</sn>
+        <vlocName>전북특별자치도 임실군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>김재문</ccbaAdmin>
+        <ccbaAsdt>19971230</ccbaAsdt>
+        <ccbaMnm>임실 덕천리 산개나리 군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>980027.11324907094</cnX>
+        <cnY>1741825.41309583</cnY>
+        <crltsnoNm>제388호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>241</sn>
+        <vlocName>전북특별자치도 임실군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>19971230</ccbaAsdt>
+        <ccbaMnm>영광 칠산도 괭이갈매기·노랑부리백로·저어새 번식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>888225.16706348106</cnX>
+        <cnY>1703416.9491539099</cnY>
+        <crltsnoNm>제389호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>242</sn>
+        <vlocName>전라남도 영광군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19971230</ccbaAsdt>
+        <ccbaMnm>진주 유수리 백악기 하성퇴적층</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1047665.79378652</cnX>
+        <cnY>1682327.2557806801</cnY>
+        <crltsnoNm>제390호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>243</sn>
+        <vlocName>경상남도 진주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>해역부</ccbaAdmin>
+        <ccbaAsdt>19971230</ccbaAsdt>
+        <ccbaMnm>옹진 백령도 사곶 사빈</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>755737.16418971401</cnX>
+        <cnY>1997348.0567844</cnY>
+        <crltsnoNm>제391호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>244</sn>
+        <vlocName>인천광역시 옹진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>19971230</ccbaAsdt>
+        <ccbaMnm>옹진 백령도 남포리 콩돌해안</ccbaMnm>
+        <ccceName>미상</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>754488.26114565099</cnX>
+        <cnY>1995717.3578888699</cnY>
+        <crltsnoNm>제392호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>245</sn>
+        <vlocName>인천광역시 옹진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국방부</ccbaAdmin>
+        <ccbaAsdt>19971230</ccbaAsdt>
+        <ccbaMnm>옹진 백령도 진촌리 맨틀포획암 분포지</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>756986.28444918199</cnX>
+        <cnY>2000884.1713244</cnY>
+        <crltsnoNm>제393호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>246</sn>
+        <vlocName>인천광역시 옹진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림수산부 외</ccbaAdmin>
+        <ccbaAsdt>19981017</ccbaAsdt>
+        <ccbaMnm>해남 우항리 공룡·익룡·새발자국 화석산지</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>901962.46874295303</cnX>
+        <cnY>1622498.3663005601</cnY>
+        <crltsnoNm>제394호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>247</sn>
+        <vlocName>전라남도 해남군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>경상남도 교육감</ccbaAdmin>
+        <ccbaAsdt>19981223</ccbaAsdt>
+        <ccbaMnm>진주 가진리 새발자국과 공룡발자국 화석산지</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1066066.9828300399,1066081.3455781699</cnX>
+        <cnY>1689834.1918321899,1689752.2233634701</cnY>
+        <crltsnoNm>제395호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>248</sn>
+        <vlocName>경상남도 진주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>한철수 외</ccbaAdmin>
+        <ccbaAsdt>19981223</ccbaAsdt>
+        <ccbaMnm>장수 봉덕리 느티나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1002620.3823058601</cnX>
+        <cnY>1748772.72792857</cnY>
+        <crltsnoNm>제396호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>249</sn>
+        <vlocName>전북특별자치도 장수군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>장수군</ccbaAdmin>
+        <ccbaAsdt>19981223</ccbaAsdt>
+        <ccbaMnm>장수 장수리 의암송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1001916.4055736701</cnX>
+        <cnY>1739000.91041851</cnY>
+        <crltsnoNm>제397호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>250</sn>
+        <vlocName>전북특별자치도 장수군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>광덕사 외</ccbaAdmin>
+        <ccbaAsdt>19981223</ccbaAsdt>
+        <ccbaMnm>천안 광덕사 호두나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>959093.092263703</cnX>
+        <cnY>1853158.8530569901</cnY>
+        <crltsnoNm>제398호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>251</sn>
+        <vlocName>충청남도 천안시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>영양군 외</ccbaAdmin>
+        <ccbaAsdt>19981223</ccbaAsdt>
+        <ccbaMnm>영양 답곡리 만지송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1146673.21507546</cnX>
+        <cnY>1839650.76519717</cnY>
+        <crltsnoNm>제399호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>252</sn>
+        <vlocName>경상북도 영양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림수산부 외</ccbaAdmin>
+        <ccbaAsdt>19981223</ccbaAsdt>
+        <ccbaMnm>예천 금남리 황목근(팽나무)</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1068973.7540818099</cnX>
+        <cnY>1845375.43620071</cnY>
+        <crltsnoNm>제400호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>253</sn>
+        <vlocName>경상북도 예천군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림수산부 외</ccbaAdmin>
+        <ccbaAsdt>19981223</ccbaAsdt>
+        <ccbaMnm>청송 홍원리 개오동나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1141180.38908947</cnX>
+        <cnY>1815936.41158593</cnY>
+        <crltsnoNm>제401호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>254</sn>
+        <vlocName>경상북도 청송군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>적천사 외</ccbaAdmin>
+        <ccbaAsdt>19981223</ccbaAsdt>
+        <ccbaMnm>청도 적천사 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1112141.42877585</cnX>
+        <cnY>1735866.9390229699</cnY>
+        <crltsnoNm>제402호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 종교</ctgrname>
+        <sn>255</sn>
+        <vlocName>경상북도 청도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19990406</ccbaAsdt>
+        <ccbaMnm>성주 경산리 성밖숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1070302.66215753</cnX>
+        <cnY>1769130.0921916701</cnY>
+        <crltsnoNm>제403호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>256</sn>
+        <vlocName>경상북도 성주군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19990406</ccbaAsdt>
+        <ccbaMnm>영천 자천리 오리장림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1127264.04382889</cnX>
+        <cnY>1790524.8640141201</cnY>
+        <crltsnoNm>제404호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>257</sn>
+        <vlocName>경상북도 영천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>안동김씨 만취당파문중 외</ccbaAdmin>
+        <ccbaAsdt>19990406</ccbaAsdt>
+        <ccbaMnm>의성 사촌리 가로숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1112898.5299957001</cnX>
+        <cnY>1826052.54042098</cnY>
+        <crltsnoNm>제405호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>258</sn>
+        <vlocName>경상북도 의성군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>함양군 외</ccbaAdmin>
+        <ccbaAsdt>19990406</ccbaAsdt>
+        <ccbaMnm>함양 운곡리 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1016989.97856045</cnX>
+        <cnY>1737499.74356545</cnY>
+        <crltsnoNm>제406호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>259</sn>
+        <vlocName>경상남도 함양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>함양군 외</ccbaAdmin>
+        <ccbaAsdt>19990406</ccbaAsdt>
+        <ccbaMnm>함양 학사루 느티나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1020548.96695243</cnX>
+        <cnY>1724983.9461437301</cnY>
+        <crltsnoNm>제407호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>260</sn>
+        <vlocName>경상남도 함양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>곽두호 외</ccbaAdmin>
+        <ccbaAsdt>19990406</ccbaAsdt>
+        <ccbaMnm>울진 쌍전리 산돌배나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1144018.7527644599</cnX>
+        <cnY>1885892.6460816099</cnY>
+        <crltsnoNm>제408호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 유전학</ctgrname>
+        <sn>261</sn>
+        <vlocName>경상북도 울진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>울진군 외</ccbaAdmin>
+        <ccbaAsdt>19990406</ccbaAsdt>
+        <ccbaMnm>울진 행곡리 처진소나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1166311.5783549501</cnX>
+        <cnY>1887665.1213351099</cnY>
+        <crltsnoNm>제409호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>262</sn>
+        <vlocName>경상북도 울진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>19990406</ccbaAsdt>
+        <ccbaMnm>거창 당산리 당송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1032300.02752246</cnX>
+        <cnY>1750433.2656370201</cnY>
+        <crltsnoNm>제410호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>263</sn>
+        <vlocName>경상남도 거창군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>재경부 외</ccbaAdmin>
+        <ccbaAsdt>19990914</ccbaAsdt>
+        <ccbaMnm>고성 덕명리 공룡발자국과 새발자국 화석산지</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1059180.93681764</cnX>
+        <cnY>1656284.539872</cnY>
+        <crltsnoNm>제411호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>264</sn>
+        <vlocName>경상남도 고성군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국방부 외</ccbaAdmin>
+        <ccbaAsdt>19990918</ccbaAsdt>
+        <ccbaMnm>연천 은대리 물거미 서식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>961641.57247398095</cnX>
+        <cnY>2004759.96254539</cnY>
+        <crltsnoNm>제412호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 특수성</ctgrname>
+        <sn>265</sn>
+        <vlocName>경기도 연천군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>김미숙 외</ccbaAdmin>
+        <ccbaAsdt>20000316</ccbaAsdt>
+        <ccbaMnm>영월 문곡리 건열구조 및 스트로마톨라이트</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1082799.4951305101</cnX>
+        <cnY>1917911.32724038</cnY>
+        <crltsnoNm>제413호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>266</sn>
+        <vlocName>강원특별자치도 영월군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>화성시 외</ccbaAdmin>
+        <ccbaAsdt>20000321</ccbaAsdt>
+        <ccbaMnm>화성 고정리 공룡알 화석산지</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>934957.49023654906</cnX>
+        <cnY>1919433.8306443801</cnY>
+        <crltsnoNm>제414호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>267</sn>
+        <vlocName>경기도 화성시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>포항시 외</ccbaAdmin>
+        <ccbaAsdt>20000428</ccbaAsdt>
+        <ccbaMnm>포항 달전리 주상절리</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1161776.79620276</cnX>
+        <cnY>1782785.4908113601</cnY>
+        <crltsnoNm>제415호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>268</sn>
+        <vlocName>경상북도 포항시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한석탄공사 외</ccbaAdmin>
+        <ccbaAsdt>20000428</ccbaAsdt>
+        <ccbaMnm>태백 장성 오르도비스기 화석산지</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1134501.95492881</cnX>
+        <cnY>1901326.97175774</cnY>
+        <crltsnoNm>제416호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>269</sn>
+        <vlocName>강원특별자치도 태백시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>태백시 외</ccbaAdmin>
+        <ccbaAsdt>20000428</ccbaAsdt>
+        <ccbaMnm>태백 구문소 오르도비스기 지층과 제4기 하식지형</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1137017.81775664</cnX>
+        <cnY>1900518.9405741999</cnY>
+        <crltsnoNm>제417호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>270</sn>
+        <vlocName>강원특별자치도 태백시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>보성군 외</ccbaAdmin>
+        <ccbaAsdt>20000428</ccbaAsdt>
+        <ccbaMnm>보성 비봉리 공룡알 화석산지</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>971493.17915392597</cnX>
+        <cnY>1633957.5841900299</cnY>
+        <crltsnoNm>제418호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>271</sn>
+        <vlocName>전라남도 보성군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>육지부, 해역부</ccbaAdmin>
+        <ccbaAsdt>20000706</ccbaAsdt>
+        <ccbaMnm>강화 갯벌 및 저어새 번식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>884038.02624781698</cnX>
+        <cnY>1959327.44787576</cnY>
+        <crltsnoNm>제419호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>272</sn>
+        <vlocName>인천광역시 강화군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>제주특별자치도 외</ccbaAdmin>
+        <ccbaAsdt>20000718</ccbaAsdt>
+        <ccbaMnm>성산일출봉 천연보호구역</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>948192.88398254395</cnX>
+        <cnY>1496404.7557091001</cnY>
+        <crltsnoNm>제420호</crltsnoNm>
+        <ctgrname>자연유산 / 천연보호구역 / 문화및자연결합성 / 경관및과학성</ctgrname>
+        <sn>273</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>20000718</ccbaAsdt>
+        <ccbaMnm>문섬·범섬 천연보호구역</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>908225.11105470394,913001.73069062899</cnX>
+        <cnY>1470218.4028049,1470960.5072262101</cnY>
+        <crltsnoNm>제421호</crltsnoNm>
+        <ctgrname>자연유산 / 천연보호구역 / 자연과학성 / 해양생물상</ctgrname>
+        <sn>274</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>제주특별자치도 외</ccbaAdmin>
+        <ccbaAsdt>20000718</ccbaAsdt>
+        <ccbaMnm>차귀도 천연보호구역</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>874248.84797586803</cnX>
+        <cnY>1480859.1293005601</cnY>
+        <crltsnoNm>제422호</crltsnoNm>
+        <ctgrname>자연유산 / 천연보호구역 / 자연과학성 / 해양생물상</ctgrname>
+        <sn>275</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>마라리마을회 외</ccbaAdmin>
+        <ccbaAsdt>20000718</ccbaAsdt>
+        <ccbaMnm>마라도 천연보호구역</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>885000.74977316102</cnX>
+        <cnY>1459151.07724455</cnY>
+        <crltsnoNm>제423호</crltsnoNm>
+        <ctgrname>자연유산 / 천연보호구역 / 문화및자연결합성 / 영토적상징성</ctgrname>
+        <sn>276</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>정경덕 외</ccbaAdmin>
+        <ccbaAsdt>20001013</ccbaAsdt>
+        <ccbaMnm>지리산 천년송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1008507.24476891</cnX>
+        <cnY>1707542.9722128799</cnY>
+        <crltsnoNm>제424호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>277</sn>
+        <vlocName>전북특별자치도 남원시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>중야인평</ccbaAdmin>
+        <ccbaAsdt>20001013</ccbaAsdt>
+        <ccbaMnm>문경 대하리 소나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1068743.4142908501</cnX>
+        <cnY>1852619.8790102401</cnY>
+        <crltsnoNm>제426호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>278</sn>
+        <vlocName>경상북도 문경시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국세청 외</ccbaAdmin>
+        <ccbaAsdt>20001208</ccbaAsdt>
+        <ccbaMnm>천안 양령리 향나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>969198.52871241001</cnX>
+        <cnY>1885488.2923379999</cnY>
+        <crltsnoNm>제427호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>279</sn>
+        <vlocName>충청남도 천안시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>20010507</ccbaAsdt>
+        <ccbaMnm>완도 대문리 모감주나무 군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>921115.36244209297</cnX>
+        <cnY>1597042.28466745</cnY>
+        <crltsnoNm>제428호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>280</sn>
+        <vlocName>전라남도 완도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>재경부 외</ccbaAdmin>
+        <ccbaAsdt>20010911</ccbaAsdt>
+        <ccbaMnm>제주 월령리 선인장 군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>880445.71012085397</cnX>
+        <cnY>1488070.7327628101</cnY>
+        <crltsnoNm>제429호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>281</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>해남군</ccbaAdmin>
+        <ccbaAsdt>20010911</ccbaAsdt>
+        <ccbaMnm>해남 성내리 수성송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>917373.36211634497</cnX>
+        <cnY>1620275.52007987</cnY>
+        <crltsnoNm>제430호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>282</sn>
+        <vlocName>전라남도 해남군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>태안군 외</ccbaAdmin>
+        <ccbaAsdt>20011130</ccbaAsdt>
+        <ccbaMnm>태안 신두리 해안사구</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>883711.81042729795</cnX>
+        <cnY>1873315.9692484001</cnY>
+        <crltsnoNm>제431호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>283</sn>
+        <vlocName>충청남도 태안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>서귀포시 외</ccbaAdmin>
+        <ccbaAsdt>20020202</ccbaAsdt>
+        <ccbaMnm>제주 상효동 한란 자생지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>913865.59966814902</cnX>
+        <cnY>1479152.09142459</cnY>
+        <crltsnoNm>제432호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 유전학</ctgrname>
+        <sn>284</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>20020629</ccbaAsdt>
+        <ccbaMnm>정선 두위봉 주목</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1112767.27445944</cnX>
+        <cnY>1912419.9978384301</cnY>
+        <crltsnoNm>제433호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>285</sn>
+        <vlocName>강원특별자치도 정선군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>20030204</ccbaAsdt>
+        <ccbaMnm>여수 낭도리 공룡발자국 화석산지</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1003406.33516607,1004089.58748585,1005054.8842353,1006032.5435220801,1006315.9959754701,1006480.73521771
+        </cnX>
+        <cnY>
+            1621799.9157294,1622555.97982137,1621668.2296021001,1622042.2377037001,1622175.6113982699,1621854.0858094699
+        </cnY>
+        <crltsnoNm>제434호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>286</sn>
+        <vlocName>전라남도 여수시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림수산부 외</ccbaAdmin>
+        <ccbaAsdt>20031213</ccbaAsdt>
+        <ccbaMnm>달성 비슬산 암괴류</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1092511.2168636201</cnX>
+        <cnY>1744424.9697777601</cnY>
+        <crltsnoNm>제435호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>287</sn>
+        <vlocName>대구광역시 달성군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국토해양부 외</ccbaAdmin>
+        <ccbaAsdt>20040223</ccbaAsdt>
+        <ccbaMnm>한탄강 대교천 현무암 협곡</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>980801.19636781898</cnX>
+        <cnY>2020277.9077309801</cnY>
+        <crltsnoNm>제436호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>288</sn>
+        <vlocName>경기도 포천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>20040409</ccbaAsdt>
+        <ccbaMnm>강릉 정동진 해안단구</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1136464.2754993299</cnX>
+        <cnY>1965645.3164399399</cnY>
+        <crltsnoNm>제437호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>289</sn>
+        <vlocName>강원특별자치도 강릉시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>해역부</ccbaAdmin>
+        <ccbaAsdt>20040409</ccbaAsdt>
+        <ccbaMnm>제주 우도 홍조단괴 해빈</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>947738.09112606105</cnX>
+        <cnY>1501345.77207243</cnY>
+        <crltsnoNm>제438호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>290</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국토교통부 외</ccbaAdmin>
+        <ccbaAsdt>20040409</ccbaAsdt>
+        <ccbaMnm>제주 비양도 호니토</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>881653.25461816404</cnX>
+        <cnY>1491883.0680644901</cnY>
+        <crltsnoNm>제439호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>291</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>20040409</ccbaAsdt>
+        <ccbaMnm>정선 백복령 카르스트지대</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1127488.95688437</cnX>
+        <cnY>1949563.8126206</cnY>
+        <crltsnoNm>제440호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>292</sn>
+        <vlocName>강원특별자치도 정선군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>북제주군 외</ccbaAdmin>
+        <ccbaAsdt>20040514</ccbaAsdt>
+        <ccbaMnm>제주 수산리 곰솔</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>896510.53506631695</cnX>
+        <cnY>1498289.7639072801</cnY>
+        <crltsnoNm>제441호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>293</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>해역부</ccbaAdmin>
+        <ccbaAsdt>20041213</ccbaAsdt>
+        <ccbaMnm>제주연안 연산호 군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>890331.28423956095,912992.25073750306</cnX>
+        <cnY>1470599.2890591701,1471047.5936942</cnY>
+        <crltsnoNm>제442호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>294</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>제주특별자치도 외</ccbaAdmin>
+        <ccbaAsdt>20050106</ccbaAsdt>
+        <ccbaMnm>제주 중문·대포해안 주상절리대</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>899918.61876965803</cnX>
+        <cnY>1472184.4719770399</cnY>
+        <crltsnoNm>제443호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>295</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>제주특별자치도 외</ccbaAdmin>
+        <ccbaAsdt>20050106</ccbaAsdt>
+        <ccbaMnm>제주 선흘리 거문오름</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>927716.85548151296</cnX>
+        <cnY>1496175.3083234299</cnY>
+        <crltsnoNm>제444호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>296</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>20050218</ccbaAsdt>
+        <ccbaMnm>하동 송림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1022324.43331516</cnX>
+        <cnY>1674183.6414697701</cnY>
+        <crltsnoNm>제445호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>297</sn>
+        <vlocName>경상남도 하동군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문화재청</ccbaAdmin>
+        <ccbaAsdt>20050430</ccbaAsdt>
+        <ccbaMnm>여주 효종대왕릉(영릉) 회양목</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1009773.21609427</cnX>
+        <cnY>1923572.97744394</cnY>
+        <crltsnoNm>제459호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>298</sn>
+        <vlocName>경기도 여주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>포천시</ccbaAdmin>
+        <ccbaAsdt>20050613</ccbaAsdt>
+        <ccbaMnm>포천 직두리 부부송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>977587.60140703199</cnX>
+        <cnY>1984007.1337420601</cnY>
+        <crltsnoNm>제460호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>299</sn>
+        <vlocName>경기도 포천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설교통부 외</ccbaAdmin>
+        <ccbaAsdt>20050719</ccbaAsdt>
+        <ccbaMnm>강릉 산계리 굴참나무 군</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1128718.72175414</cnX>
+        <cnY>1952754.2237561101</cnY>
+        <crltsnoNm>제461호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>300</sn>
+        <vlocName>강원특별자치도 강릉시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>재경부 외</ccbaAdmin>
+        <ccbaAsdt>20050819</ccbaAsdt>
+        <ccbaMnm>가지산 철쭉나무 군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1137136.2936952601</cnX>
+        <cnY>1736611.2227962799</cnY>
+        <crltsnoNm>제462호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>301</sn>
+        <vlocName>울산광역시 울주군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 문수사 외</ccbaAdmin>
+        <ccbaAsdt>20050909</ccbaAsdt>
+        <ccbaMnm>고창 문수사 단풍나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>929532.75532140199</cnX>
+        <cnY>1709646.8158629399</cnY>
+        <crltsnoNm>제463호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>302</sn>
+        <vlocName>전북특별자치도 고창군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>기획재정부 외</ccbaAdmin>
+        <ccbaAsdt>20050908</ccbaAsdt>
+        <ccbaMnm>제주 사람발자국과 동물발자국 화석산지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>887742.93285001302</cnX>
+        <cnY>1470298.22761324</cnY>
+        <crltsnoNm>제464호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>303</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>광주시</ccbaAdmin>
+        <ccbaAsdt>20051216</ccbaAsdt>
+        <ccbaMnm>무등산 주상절리대</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>954685.42966190097</cnX>
+        <cnY>1680572.7800517301</cnY>
+        <crltsnoNm>제465호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>304</sn>
+        <vlocName>광주광역시 동구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>제주특별자치도 외</ccbaAdmin>
+        <ccbaAsdt>20060207</ccbaAsdt>
+        <ccbaMnm>제주 용천동굴</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>933180.00683669199</cnX>
+        <cnY>1506868.53787073</cnY>
+        <crltsnoNm>제466호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>305</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>제주특별자치도 외</ccbaAdmin>
+        <ccbaAsdt>20060207</ccbaAsdt>
+        <ccbaMnm>제주 수산동굴</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>939860.42549787497</cnX>
+        <cnY>1492368.4767628801</cnY>
+        <crltsnoNm>제467호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>306</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>20060328</ccbaAsdt>
+        <ccbaMnm>포항 북송리 북천수</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1164362.8883682799</cnX>
+        <cnY>1792710.1197911799</cnY>
+        <crltsnoNm>제468호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>307</sn>
+        <vlocName>경상북도 포항시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>예천군</ccbaAdmin>
+        <ccbaAsdt>20060328</ccbaAsdt>
+        <ccbaMnm>예천 금당실 송림</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1081043.1529914299</cnX>
+        <cnY>1855166.5054041401</cnY>
+        <crltsnoNm>제469호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>308</sn>
+        <vlocName>경상북도 예천군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>화성시</ccbaAdmin>
+        <ccbaAsdt>20060404</ccbaAsdt>
+        <ccbaMnm>화성 전곡리 물푸레나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>928839.02215116401</cnX>
+        <cnY>1910875.3624749901</cnY>
+        <crltsnoNm>제470호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>309</sn>
+        <vlocName>경기도 화성시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문화재청</ccbaAdmin>
+        <ccbaAsdt>20060406</ccbaAsdt>
+        <ccbaMnm>창덕궁 뽕나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>955269.85854140495</cnX>
+        <cnY>1953881.49739368</cnY>
+        <crltsnoNm>제471호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>310</sn>
+        <vlocName>서울특별시 종로구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문화재청</ccbaAdmin>
+        <ccbaAsdt>20060406</ccbaAsdt>
+        <ccbaMnm>창덕궁 회화나무 군</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>954982.645750614</cnX>
+        <cnY>1953323.96296024</cnY>
+        <crltsnoNm>제472호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 역사</ctgrname>
+        <sn>311</sn>
+        <vlocName>서울특별시 종로구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>20061127</ccbaAsdt>
+        <ccbaMnm>안동 하회마을 만송정 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1090946.8970768601</cnX>
+        <cnY>1838588.3247782199</cnY>
+        <crltsnoNm>제473호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 역사</ctgrname>
+        <sn>312</sn>
+        <vlocName>경상북도 안동시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>사천시</ccbaAdmin>
+        <ccbaAsdt>20061205</ccbaAsdt>
+        <ccbaMnm>사천 아두섬 공룡 화석산지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1051698.7403524001</cnX>
+        <cnY>1656373.1643455599</cnY>
+        <crltsnoNm>제474호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>313</sn>
+        <vlocName>경상남도 사천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 계승사 외</ccbaAdmin>
+        <ccbaAsdt>20061205</ccbaAsdt>
+        <ccbaMnm>고성 계승사 백악기 퇴적구조</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1066042.7200801701</cnX>
+        <cnY>1673350.95769192</cnY>
+        <crltsnoNm>제475호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>314</sn>
+        <vlocName>경상남도 고성군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>영양군 외</ccbaAdmin>
+        <ccbaAsdt>20070221</ccbaAsdt>
+        <ccbaMnm>영양 주사골 시무나무와 비술나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1148392.7451436101,1148664.6036668001</cnX>
+        <cnY>1842866.9045629399,1843695.00642614</cnY>
+        <crltsnoNm>제476호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>315</sn>
+        <vlocName>경상북도 영양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>경상남도(교육감) 외</ccbaAdmin>
+        <ccbaAsdt>20070507</ccbaAsdt>
+        <ccbaMnm>하동 중평리 장구섬 백악기 화석산지</ccbaMnm>
+        <ccceName>선사시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1038296.50710311</cnX>
+        <cnY>1663815.6768207999</cnY>
+        <crltsnoNm>제477호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>316</sn>
+        <vlocName>경상남도 하동군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>장성군 외</ccbaAdmin>
+        <ccbaAsdt>20070809</ccbaAsdt>
+        <ccbaMnm>장성 단전리 느티나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>943007.29211054696</cnX>
+        <cnY>1709870.83468208</cnY>
+        <crltsnoNm>제478호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>317</sn>
+        <vlocName>전라남도 장성군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>20070809</ccbaAsdt>
+        <ccbaMnm>완도 정자리 황칠나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>909461.03926483996</cnX>
+        <cnY>1575051.9433462799</cnY>
+        <crltsnoNm>제479호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>318</sn>
+        <vlocName>전라남도 완도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>보성군</ccbaAdmin>
+        <ccbaAsdt>20070809</ccbaAsdt>
+        <ccbaMnm>보성 전일리 팽나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>959537.47722692695</cnX>
+        <cnY>1630472.7841958499</cnY>
+        <crltsnoNm>제480호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>319</sn>
+        <vlocName>전라남도 보성군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>경주이씨 개산공파종중 외</ccbaAdmin>
+        <ccbaAsdt>20070809</ccbaAsdt>
+        <ccbaMnm>장흥 삼산리 후박나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>950119.53433304199</cnX>
+        <cnY>1614504.82791083</cnY>
+        <crltsnoNm>제481호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>320</sn>
+        <vlocName>전라남도 장흥군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>20070809</ccbaAsdt>
+        <ccbaMnm>담양 봉안리 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>957339.60386735899</cnX>
+        <cnY>1700055.19919189</cnY>
+        <crltsnoNm>제482호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>321</sn>
+        <vlocName>전라남도 담양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 개천사 외</ccbaAdmin>
+        <ccbaAsdt>20070809</ccbaAsdt>
+        <ccbaMnm>화순 개천사 비자나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>946379.31714526296</cnX>
+        <cnY>1656888.19697127</cnY>
+        <crltsnoNm>제483호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>322</sn>
+        <vlocName>전라남도 화순군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문화재청</ccbaAdmin>
+        <ccbaAsdt>20071008</ccbaAsdt>
+        <ccbaMnm>강릉 오죽헌 율곡매</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1121304.2414814299</cnX>
+        <cnY>1976392.7610561701</cnY>
+        <crltsnoNm>제484호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 역사</ctgrname>
+        <sn>323</sn>
+        <vlocName>강원특별자치도 강릉시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 화엄사</ccbaAdmin>
+        <ccbaAsdt>20071008</ccbaAsdt>
+        <ccbaMnm>구례 화엄사 화엄매</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>999863.36034605431</cnX>
+        <cnY>1695910.0132138918</cnY>
+        <crltsnoNm>제485호</crltsnoNm>
+        <ctgrname>자연유산</ctgrname>
+        <sn>324</sn>
+        <vlocName>전라남도 구례군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 백양사</ccbaAdmin>
+        <ccbaAsdt>20071008</ccbaAsdt>
+        <ccbaMnm>장성 백양사 고불매</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>944019.51010846801</cnX>
+        <cnY>1716129.3828296</cnY>
+        <crltsnoNm>제486호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>325</sn>
+        <vlocName>전라남도 장성군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>화순군 외</ccbaAdmin>
+        <ccbaAsdt>20071109</ccbaAsdt>
+        <ccbaMnm>화순 서유리 공룡발자국 화석산지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>962656.01121345803</cnX>
+        <cnY>1686077.4336005901</cnY>
+        <crltsnoNm>제487호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>326</sn>
+        <vlocName>전라남도 화순군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 선암사</ccbaAdmin>
+        <ccbaAsdt>20071126</ccbaAsdt>
+        <ccbaMnm>순천 선암사 선암매</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>984560.30965004896,984579.47006114805</cnX>
+        <cnY>1666917.7029681599,1666938.87999173</cnY>
+        <crltsnoNm>제488호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>327</sn>
+        <vlocName>전라남도 순천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>광양시</ccbaAdmin>
+        <ccbaAsdt>20071217</ccbaAsdt>
+        <ccbaMnm>광양 옥룡사 동백나무 숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1009772.40006702</cnX>
+        <cnY>1672455.39810312</cnY>
+        <crltsnoNm>제489호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 특수성</ctgrname>
+        <sn>328</sn>
+        <vlocName>전라남도 광양시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>제주특별자치도 외</ccbaAdmin>
+        <ccbaAsdt>20080115</ccbaAsdt>
+        <ccbaMnm>제주 선흘리 벵뒤굴</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>927350.17905586201</cnX>
+        <cnY>1498234.7526309099</cnY>
+        <crltsnoNm>제490호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>329</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대축마을회 외</ccbaAdmin>
+        <ccbaAsdt>20080312</ccbaAsdt>
+        <ccbaMnm>하동 축지리 문암송</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1018927.25511142</cnX>
+        <cnY>1682551.12138784</cnY>
+        <crltsnoNm>제491호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>330</sn>
+        <vlocName>경상남도 하동군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>전상호 외</ccbaAdmin>
+        <ccbaAsdt>20080312</ccbaAsdt>
+        <ccbaMnm>의령 백곡리 감나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1078672.6986632301</cnX>
+        <cnY>1707026.8725399301</cnY>
+        <crltsnoNm>제492호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>331</sn>
+        <vlocName>경상남도 의령군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>의령군 외</ccbaAdmin>
+        <ccbaAsdt>20080312</ccbaAsdt>
+        <ccbaMnm>의령 세간리 현고수(느티나무)</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1076671.0829067901</cnX>
+        <cnY>1715985.70350328</cnY>
+        <crltsnoNm>제493호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>332</sn>
+        <vlocName>경상남도 의령군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>이순례 외</ccbaAdmin>
+        <ccbaAsdt>20080501</ccbaAsdt>
+        <ccbaMnm>고창 수동리 팽나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>924024.44555485505</cnX>
+        <cnY>1727069.8542192399</cnY>
+        <crltsnoNm>제494호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>333</sn>
+        <vlocName>전북특별자치도 고창군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 천황사 외</ccbaAdmin>
+        <ccbaAsdt>20080616</ccbaAsdt>
+        <ccbaMnm>진안 천황사 전나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>993997.46259013098</cnX>
+        <cnY>1767290.5352046201</cnY>
+        <crltsnoNm>제495호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>334</sn>
+        <vlocName>전북특별자치도 진안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>양판남</ccbaAdmin>
+        <ccbaAsdt>20081211</ccbaAsdt>
+        <ccbaMnm>정읍 두월리 청실배나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>960460.14924323896</cnX>
+        <cnY>1731746.6764034301</cnY>
+        <crltsnoNm>제497호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>335</sn>
+        <vlocName>전북특별자치도 정읍시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>평창군</ccbaAdmin>
+        <ccbaAsdt>20081211</ccbaAsdt>
+        <ccbaMnm>평창 운교리 밤나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1074270.91380363</cnX>
+        <cnY>1937301.20321676</cnY>
+        <crltsnoNm>제498호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>336</sn>
+        <vlocName>강원특별자치도 평창군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>홍성기 외</ccbaAdmin>
+        <ccbaAsdt>20081229</ccbaAsdt>
+        <ccbaMnm>남해 가인리 화석산지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1050168.4405662499,1050644.67420392</cnX>
+        <cnY>1654725.55790563,1654577.34996634</cnY>
+        <crltsnoNm>제499호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>337</sn>
+        <vlocName>경상남도 남해군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>해역부</ccbaAdmin>
+        <ccbaAsdt>20090427</ccbaAsdt>
+        <ccbaMnm>목포 갓바위 풍화혈</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>901717.36317459401</cnX>
+        <cnY>1644687.3253460501</cnY>
+        <crltsnoNm>제500호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>338</sn>
+        <vlocName>전라남도 목포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>윤요한 외</ccbaAdmin>
+        <ccbaAsdt>20090609</ccbaAsdt>
+        <ccbaMnm>군산 말도 습곡구조</ccbaMnm>
+        <ccceName>선사시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>893821.77681986999</cnX>
+        <cnY>1762480.0635448999</cnY>
+        <crltsnoNm>제501호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>339</sn>
+        <vlocName>전북특별자치도 군산시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>인천시(교육감)</ccbaAdmin>
+        <ccbaAsdt>20090916</ccbaAsdt>
+        <ccbaMnm>강화 참성단 소사나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>905586.17536436999</cnX>
+        <cnY>1957948.8043837601</cnY>
+        <crltsnoNm>제502호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>340</sn>
+        <vlocName>인천광역시 강화군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>기획재정부</ccbaAdmin>
+        <ccbaAsdt>20090916</ccbaAsdt>
+        <ccbaMnm>고창 교촌리 멀구슬나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>927602.87841948203</cnX>
+        <cnY>1715787.50175807</cnY>
+        <crltsnoNm>제503호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>341</sn>
+        <vlocName>전북특별자치도 고창군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문화재청</ccbaAdmin>
+        <ccbaAsdt>20090916</ccbaAsdt>
+        <ccbaMnm>화성 융릉 개비자나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>954707.05194230902</cnX>
+        <cnY>1912258.1852516399</cnY>
+        <crltsnoNm>제504호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>342</sn>
+        <vlocName>경기도 화성시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>20091009</ccbaAsdt>
+        <ccbaMnm>진도 동거차도 유문암질 단괴</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>857571.71623118199</cnX>
+        <cnY>1584393.0169929201</cnY>
+        <crltsnoNm>제505호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>343</sn>
+        <vlocName>전라남도 진도군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국방부 외</ccbaAdmin>
+        <ccbaAsdt>20091110</ccbaAsdt>
+        <ccbaMnm>옹진 백령도 남포리 습곡구조</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>751507.92748613295</cnX>
+        <cnY>1995106.46324221</cnY>
+        <crltsnoNm>제507호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>344</sn>
+        <vlocName>인천광역시 옹진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>20091110</ccbaAsdt>
+        <ccbaMnm>옹진 소청도 선캄브리아 스트로마톨라이트와 분바위</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>759460.19045258302</cnX>
+        <cnY>1977673.9186578901</cnY>
+        <crltsnoNm>제508호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>345</sn>
+        <vlocName>인천광역시 옹진군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>20091215</ccbaAsdt>
+        <ccbaMnm>정선 산호동굴</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1110590.1030846301</cnX>
+        <cnY>1939104.61985644</cnY>
+        <crltsnoNm>제509호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>346</sn>
+        <vlocName>강원특별자치도 정선군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>평창군 외</ccbaAdmin>
+        <ccbaAsdt>20091215</ccbaAsdt>
+        <ccbaMnm>평창 섭동굴</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1081970.3669537699</cnX>
+        <cnY>1933900.40003111</cnY>
+        <crltsnoNm>제510호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>347</sn>
+        <vlocName>강원특별자치도 평창군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>20091211</ccbaAsdt>
+        <ccbaMnm>태안 내파수도 해안 자갈톱</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>887120.51364186499</cnX>
+        <cnY>1829200.9882799301</cnY>
+        <crltsnoNm>제511호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>348</sn>
+        <vlocName>충청남도 태안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>(학)선목학원</ccbaAdmin>
+        <ccbaAsdt>20091211</ccbaAsdt>
+        <ccbaMnm>경산 대구가톨릭대학교 백악기 스트로마톨라이트</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1118036.08271001</cnX>
+        <cnY>1769476.1728097701</cnY>
+        <crltsnoNm>제512호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>349</sn>
+        <vlocName>경상북도 경산시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>제주특별자치도 외</ccbaAdmin>
+        <ccbaAsdt>20091211</ccbaAsdt>
+        <ccbaMnm>제주 수월봉 화산쇄설층</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>875636.049224257</cnX>
+        <cnY>1479103.4142454099</cnY>
+        <crltsnoNm>제513호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>350</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림수산부 외</ccbaAdmin>
+        <ccbaAsdt>20091230</ccbaAsdt>
+        <ccbaMnm>영덕 도천리 도천숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1166316.3368261701</cnX>
+        <cnY>1813753.53599636</cnY>
+        <crltsnoNm>제514호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>351</sn>
+        <vlocName>경상북도 영덕군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>나주나씨금사정파일송종중</ccbaAdmin>
+        <ccbaAsdt>20091230</ccbaAsdt>
+        <ccbaMnm>나주 송죽리 금사정 동백나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>921112.16753304901</cnX>
+        <cnY>1663179.5155249501</cnY>
+        <crltsnoNm>제515호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>352</sn>
+        <vlocName>전라남도 나주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림수산부 외</ccbaAdmin>
+        <ccbaAsdt>20091230</ccbaAsdt>
+        <ccbaMnm>나주 상방리 호랑가시나무</ccbaMnm>
+        <ccceName>조선시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>920311.88754017197</cnX>
+        <cnY>1659921.0219412099</cnY>
+        <crltsnoNm>제516호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>353</sn>
+        <vlocName>전라남도 나주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문화재청 외</ccbaAdmin>
+        <ccbaAsdt>20101028</ccbaAsdt>
+        <ccbaMnm>제주 물장오리 오름</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>916932.4045826199</cnX>
+        <cnY>1491076.8514652555</cnY>
+        <crltsnoNm>제517호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 진귀성</ctgrname>
+        <sn>354</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설부 외</ccbaAdmin>
+        <ccbaAsdt>20101122</ccbaAsdt>
+        <ccbaMnm>보은 용곡리 고욤나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1006016.722355589</cnX>
+        <cnY>1830443.2832825773</cnY>
+        <crltsnoNm>제518호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>355</sn>
+        <vlocName>충청북도 보은군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>박도진</ccbaAdmin>
+        <ccbaAsdt>20101122</ccbaAsdt>
+        <ccbaMnm>영양 무창리 산돌배</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1152848.6348266599</cnX>
+        <cnY>1851649.8375244101</cnY>
+        <crltsnoNm>제519호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>356</sn>
+        <vlocName>경상북도 영양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>강릉박씨상가공휘수량종중</ccbaAdmin>
+        <ccbaAsdt>20110113</ccbaAsdt>
+        <ccbaMnm>강릉 방동리 무궁화</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1120017.3836554382</cnX>
+        <cnY>1981742.5312669922</cnY>
+        <crltsnoNm>제520호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>357</sn>
+        <vlocName>강원특별자치도 강릉시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>청주시</ccbaAdmin>
+        <ccbaAsdt>20110113</ccbaAsdt>
+        <ccbaMnm>청주 연제리 모과나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>983876.74428196403</cnX>
+        <cnY>1848915.3274671501</cnY>
+        <crltsnoNm>제522호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>358</sn>
+        <vlocName>충청북도 청주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>제주특별자치도</ccbaAdmin>
+        <ccbaAsdt>20110113</ccbaAsdt>
+        <ccbaMnm>제주 도련동 귤나무류</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>914753.29886893008</cnX>
+        <cnY>1502282.330592104</cnY>
+        <crltsnoNm>제523호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>359</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>환경부 외</ccbaAdmin>
+        <ccbaAsdt>20110113</ccbaAsdt>
+        <ccbaMnm>창녕 우포늪 천연보호구역</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1082953.8265778062</cnX>
+        <cnY>1729204.2445997573</cnY>
+        <crltsnoNm>제524호</crltsnoNm>
+        <ctgrname>자연유산 / 천연보호구역 / 자연과학성 / 특수생물상</ctgrname>
+        <sn>360</sn>
+        <vlocName>경상남도 창녕군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>20110113</ccbaAsdt>
+        <ccbaMnm>신안 작은대섬 응회암과 화산성구조</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>852625.60748291004</cnX>
+        <cnY>1636868.6500854499</cnY>
+        <crltsnoNm>제525호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>361</sn>
+        <vlocName>전라남도 신안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>건설교통부 외</ccbaAdmin>
+        <ccbaAsdt>20110113</ccbaAsdt>
+        <ccbaMnm>제주 사계리 용머리 화산쇄설층</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>889546.449401855</cnX>
+        <cnY>1472010.1766967799</cnY>
+        <crltsnoNm>제526호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>362</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>20110113</ccbaAsdt>
+        <ccbaMnm>의성 빙계리 얼음골</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1112781.93890381</cnX>
+        <cnY>1804472.3137207001</cnY>
+        <crltsnoNm>제527호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 자연현상</ctgrname>
+        <sn>363</sn>
+        <vlocName>경상북도 의성군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>만어사 외</ccbaAdmin>
+        <ccbaAsdt>20110113</ccbaAsdt>
+        <ccbaMnm>밀양 만어산 암괴류</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1121952.16119385</cnX>
+        <cnY>1718225.9418945301</cnY>
+        <crltsnoNm>제528호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>364</sn>
+        <vlocName>경상남도 밀양시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>20110113</ccbaAsdt>
+        <ccbaMnm>양양 오색리 오색약수</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1082954.9149780299</cnX>
+        <cnY>2009055.46728516</cnY>
+        <crltsnoNm>제529호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>365</sn>
+        <vlocName>강원특별자치도 양양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>20110113</ccbaAsdt>
+        <ccbaMnm>홍천 광원리 삼봉약수</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1084534.6962280299</cnX>
+        <cnY>1983936.65368652</cnY>
+        <crltsnoNm>제530호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>366</sn>
+        <vlocName>강원특별자치도 홍천군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>20110113</ccbaAsdt>
+        <ccbaMnm>인제 미산리 개인약수</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1076524.4511108401</cnX>
+        <cnY>1987120.2277221701</cnY>
+        <crltsnoNm>제531호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>367</sn>
+        <vlocName>강원특별자치도 인제군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청 외</ccbaAdmin>
+        <ccbaAsdt>20110905</ccbaAsdt>
+        <ccbaMnm>화천 황쏘가리 서식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1028270.04870605</cnX>
+        <cnY>2026917.2583007801</cnY>
+        <crltsnoNm>제532호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>368</sn>
+        <vlocName>강원특별자치도 화천군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국토해양부 외</ccbaAdmin>
+        <ccbaAsdt>20110905</ccbaAsdt>
+        <ccbaMnm>부여·청양 지천 미호종개 서식지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>946207.35689854599</cnX>
+        <cnY>1815164.5553552699</cnY>
+        <crltsnoNm>제533호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 분포학</ctgrname>
+        <sn>369</sn>
+        <vlocName>충청남도 부여군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>경상남도개발공사</ccbaAdmin>
+        <ccbaAsdt>20111014</ccbaAsdt>
+        <ccbaMnm>진주 충무공동 익룡·새·공룡발자국 화석산지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1058220.08068524</cnX>
+        <cnY>1686155.7052634901</cnY>
+        <crltsnoNm>제534호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>370</sn>
+        <vlocName>경상남도 진주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국토해양부 외</ccbaAdmin>
+        <ccbaAsdt>20120925</ccbaAsdt>
+        <ccbaMnm>경주 양남 주상절리군</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1178576.7858786294</cnX>
+        <cnY>1744798.3370200696</cnY>
+        <crltsnoNm>제536호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>371</sn>
+        <vlocName>경상북도 경주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국토해양부</ccbaAdmin>
+        <ccbaAsdt>20120925</ccbaAsdt>
+        <ccbaMnm>포천 한탄강 현무암 협곡과 비둘기낭폭포</ccbaMnm>
+        <ccceName>생성시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>975192.50130053167</cnX>
+        <cnY>2008851.9953041787</cnY>
+        <crltsnoNm>제537호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>372</sn>
+        <vlocName>경기도 포천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국토해양부</ccbaAdmin>
+        <ccbaAsdt>20121005</ccbaAsdt>
+        <ccbaMnm>독도 사철나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1387630.63031006</cnX>
+        <cnY>1924673.8034168601</cnY>
+        <crltsnoNm>제538호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>373</sn>
+        <vlocName>경상북도 울릉군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>광주광역시 외</ccbaAdmin>
+        <ccbaAsdt>20121005</ccbaAsdt>
+        <ccbaMnm>광주 충효동 왕버들 군</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>954571.9200879907</cnX>
+        <cnY>1687830.3106778832</cnY>
+        <crltsnoNm>제539호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>374</sn>
+        <vlocName>광주광역시 북구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국방부 외</ccbaAdmin>
+        <ccbaAsdt>20130212</ccbaAsdt>
+        <ccbaMnm>포천 아우라지 베개용암</ccbaMnm>
+        <ccceName>기타</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>966397.61587055365</cnX>
+        <cnY>2004502.3063993063</cnY>
+        <crltsnoNm>제542호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>375</sn>
+        <vlocName>경기도 포천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국토해양부</ccbaAdmin>
+        <ccbaAsdt>20130411</ccbaAsdt>
+        <ccbaMnm>영월 무릉리 요선암 돌개구멍</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1067468.6100965007</cnX>
+        <cnY>1922283.9999298826</cnY>
+        <crltsnoNm>제543호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>376</sn>
+        <vlocName>강원특별자치도 영월군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>서귀포시</ccbaAdmin>
+        <ccbaAsdt>20130426</ccbaAsdt>
+        <ccbaMnm>제주 강정동 담팔수</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>905677.92019301944</cnX>
+        <cnY>1472427.2123016359</cnY>
+        <crltsnoNm>제544호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>377</sn>
+        <vlocName>제주특별자치도 서귀포시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국토교통부 외</ccbaAdmin>
+        <ccbaAsdt>20130717</ccbaAsdt>
+        <ccbaMnm>대전 괴곡동 느티나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>986927.56543311151</cnX>
+        <cnY>1809876.3827255154</cnY>
+        <crltsnoNm>제545호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>378</sn>
+        <vlocName>대전광역시 서구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>포항시</ccbaAdmin>
+        <ccbaAsdt>20131216</ccbaAsdt>
+        <ccbaMnm>포항 뇌성산 뇌록산지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1181344.862618723</cnX>
+        <cnY>1772582.1446106148</cnY>
+        <crltsnoNm>제547호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>379</sn>
+        <vlocName>경상북도 포항시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>사유지</ccbaAdmin>
+        <ccbaAsdt>20140611</ccbaAsdt>
+        <ccbaMnm>군산 산북동 공룡발자국과 익룡발자국 화석산지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>924135.51367488236</cnX>
+        <cnY>1775361.9422442385</cnY>
+        <crltsnoNm>제548호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>380</sn>
+        <vlocName>전북특별자치도 군산시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국토교통부 외</ccbaAdmin>
+        <ccbaAsdt>20150116</ccbaAsdt>
+        <ccbaMnm>정선 용소동굴</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1124004.0655544389</cnX>
+        <cnY>1916969.717293106</cnY>
+        <crltsnoNm>제549호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>381</sn>
+        <vlocName>강원특별자치도 정선군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>충청남도교육청 외</ccbaAdmin>
+        <ccbaAsdt>20160906</ccbaAsdt>
+        <ccbaMnm>당진 면천 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>925806.2667933841</cnX>
+        <cnY>1869128.2422128285</cnY>
+        <crltsnoNm>제551호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 민속</ctgrname>
+        <sn>382</sn>
+        <vlocName>충청남도 당진시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>제주특별자치도 외</ccbaAdmin>
+        <ccbaAsdt>20170104</ccbaAsdt>
+        <ccbaMnm>거문오름 용암동굴계 상류동굴군(웃산전굴, 북오름굴, 대림굴)</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>929551.20765993546</cnX>
+        <cnY>1499542.0721492085</cnY>
+        <crltsnoNm>제552호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>383</sn>
+        <vlocName>제주특별자치도 제주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>유병일 외</ccbaAdmin>
+        <ccbaAsdt>20180503</ccbaAsdt>
+        <ccbaMnm>서산 송곡서원 향나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>902910.27015367278</cnX>
+        <cnY>1859312.4868447499</cnY>
+        <crltsnoNm>제553호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 역사</ctgrname>
+        <sn>384</sn>
+        <vlocName>충청남도 서산시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>강릉시 외</ccbaAdmin>
+        <ccbaAsdt>20180829</ccbaAsdt>
+        <ccbaMnm>강릉 현내리 고욤나무</ccbaMnm>
+        <ccceName>조선시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1135239.1791465564</cnX>
+        <cnY>1957585.1531525899</cnY>
+        <crltsnoNm>제554호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>385</sn>
+        <vlocName>강원특별자치도 강릉시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>농림부 외</ccbaAdmin>
+        <ccbaAsdt>20190905</ccbaAsdt>
+        <ccbaMnm>포천 초과리 오리나무</ccbaMnm>
+        <ccceName>조선시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>977708.65667952504</cnX>
+        <cnY>2016363.7665659748</cnY>
+        <crltsnoNm>제555호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>386</sn>
+        <vlocName>경기도 포천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>정선군 외</ccbaAdmin>
+        <ccbaAsdt>20191002</ccbaAsdt>
+        <ccbaMnm>정선 봉양리 쥐라기 역암</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1101352.7649035903</cnX>
+        <cnY>1932653.0557605859</cnY>
+        <crltsnoNm>제556호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>387</sn>
+        <vlocName>강원특별자치도 정선군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>정선군 외</ccbaAdmin>
+        <ccbaAsdt>20191101</ccbaAsdt>
+        <ccbaMnm>정선 화암동굴</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1114574.3641073387</cnX>
+        <cnY>1928754.3296145268</cnY>
+        <crltsnoNm>제557호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>388</sn>
+        <vlocName>강원특별자치도 정선군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>장수황씨사정공파종중</ccbaAdmin>
+        <ccbaAsdt>20191227</ccbaAsdt>
+        <ccbaMnm>문경 장수황씨 종택 탱자나무</ccbaMnm>
+        <ccceName>조선시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1067979.9047560368</cnX>
+        <cnY>1851965.6768362008</cnY>
+        <crltsnoNm>제558호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>389</sn>
+        <vlocName>경상북도 문경시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>상주시농회 외</ccbaAdmin>
+        <ccbaAsdt>20200203</ccbaAsdt>
+        <ccbaMnm>상주 두곡리 뽕나무</ccbaMnm>
+        <ccceName>조선시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1051435.6169137084</cnX>
+        <cnY>1841432.3498740215</cnY>
+        <crltsnoNm>제559호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>390</sn>
+        <vlocName>경상북도 상주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국토교통부 외</ccbaAdmin>
+        <ccbaAsdt>20201109</ccbaAsdt>
+        <ccbaMnm>담양 태목리 대나무 군락</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>945173.50600131438</cnX>
+        <cnY>1695630.2860122933</cnY>
+        <crltsnoNm>제560호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>391</sn>
+        <vlocName>전라남도 담양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>경북향교재단 외</ccbaAdmin>
+        <ccbaAsdt>20201207</ccbaAsdt>
+        <ccbaMnm>포항 흥해향교 이팝나무 군락</ccbaMnm>
+        <ccceName>조선시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1165918.8304282592</cnX>
+        <cnY>1791904.499006572</cnY>
+        <crltsnoNm>제561호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>392</sn>
+        <vlocName>경상북도 포항시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>남동구 외</ccbaAdmin>
+        <ccbaAsdt>20210208</ccbaAsdt>
+        <ccbaMnm>인천 장수동 은행나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>935419.11985319224</cnX>
+        <cnY>1940377.6268819775</cnY>
+        <crltsnoNm>제562호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>393</sn>
+        <vlocName>인천광역시 남동구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대한불교조계종 내장사</ccbaAdmin>
+        <ccbaAsdt>20210809</ccbaAsdt>
+        <ccbaMnm>정읍 내장산 단풍나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>945538.87403779617</cnX>
+        <cnY>1721494.869058711</cnY>
+        <crltsnoNm>제563호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 대표성</ctgrname>
+        <sn>394</sn>
+        <vlocName>전북특별자치도 정읍시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>문화재청 외</ccbaAdmin>
+        <ccbaAsdt>20210809</ccbaAsdt>
+        <ccbaMnm>부여 가림성 느티나무</ccbaMnm>
+        <ccceName>조선시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>946075.44400923117</cnX>
+        <cnY>1800059.3559143823</cnY>
+        <crltsnoNm>제564호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>395</sn>
+        <vlocName>충청남도 부여군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>공유수면</ccbaAdmin>
+        <ccbaAsdt>20210813</ccbaAsdt>
+        <ccbaMnm>사천 선전리 백악기 나뭇가지 피복체 산지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1044710.8793712501</cnX>
+        <cnY>1665558.3272781773</cnY>
+        <crltsnoNm>제565호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>396</sn>
+        <vlocName>경상남도 사천시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>사유지</ccbaAdmin>
+        <ccbaAsdt>20210929</ccbaAsdt>
+        <ccbaMnm>진주 정촌면 백악기 공룡·익룡발자국 화석산지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1055201.8097761537</cnX>
+        <cnY>1679805.9295522803</cnY>
+        <crltsnoNm>제566호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 고생물</ctgrname>
+        <sn>397</sn>
+        <vlocName>경상남도 진주시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>영양군 외</ccbaAdmin>
+        <ccbaAsdt>20211117</ccbaAsdt>
+        <ccbaMnm>영양 송하리 졸참나무와 당숲</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1151606.1243626226</cnX>
+        <cnY>1857043.3397925848</cnY>
+        <crltsnoNm>제567호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 기념</ctgrname>
+        <sn>398</sn>
+        <vlocName>경상북도 영양군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>정선군 외</ccbaAdmin>
+        <ccbaAsdt>20211230</ccbaAsdt>
+        <ccbaMnm>정선 봉양리 뽕나무</ccbaMnm>
+        <ccceName>조선시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1102789.1136283157</cnX>
+        <cnY>1931817.4031014557</cnY>
+        <crltsnoNm>제568호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 생활</ctgrname>
+        <sn>399</sn>
+        <vlocName>강원특별자치도 정선군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>국토교통부</ccbaAdmin>
+        <ccbaAsdt>20220512</ccbaAsdt>
+        <ccbaMnm>연천 임진강 두루미류 도래지(569)</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>955031.63134618313</cnX>
+        <cnY>2013158.0267559819</cnY>
+        <crltsnoNm>제569호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 역사</ctgrname>
+        <sn>400</sn>
+        <vlocName>경기도 연천군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>한국토지공사</ccbaAdmin>
+        <ccbaAsdt>20220512</ccbaAsdt>
+        <ccbaMnm>세종 임난수 은행나무</ccbaMnm>
+        <ccceName>고려시대</ccceName>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>981359.97077486152</cnX>
+        <cnY>1834083.7969806986</cnY>
+        <crltsnoNm>제570호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 문화역사기념물 / 역사</ctgrname>
+        <sn>401</sn>
+        <vlocName>세종특별자치시 세종특별자치시</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>대통령비서실</ccbaAdmin>
+        <ccbaAsdt>20221007</ccbaAsdt>
+        <ccbaMnm>청와대 노거수 군</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>953830.87849760347</cnX>
+        <cnY>1954107.4806596371</cnY>
+        <crltsnoNm>제572호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>402</sn>
+        <vlocName>서울특별시 종로구</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>창원시</ccbaAdmin>
+        <ccbaAsdt>20221007</ccbaAsdt>
+        <ccbaMnm>창원 북부리 팽나무</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1111532.5195625636</cnX>
+        <cnY>1706628.9576126435</cnY>
+        <crltsnoNm>제573호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 생물과학기념물 / 생물상</ctgrname>
+        <sn>403</sn>
+        <vlocName>경상남도</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>산림청</ccbaAdmin>
+        <ccbaAsdt>20230817</ccbaAsdt>
+        <ccbaMnm>포항 오도리 주상절리</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1171218.0543195782</cnX>
+        <cnY>1797014.5104443401</cnY>
+        <crltsnoNm>제575호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>404</sn>
+        <vlocName>경상북도</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>김양임</ccbaAdmin>
+        <ccbaAsdt>20231012</ccbaAsdt>
+        <ccbaMnm>부안 위도 진리 대월습곡</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>888934.98611935705</cnX>
+        <cnY>1735207.8626720468</cnY>
+        <crltsnoNm>제576호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>405</sn>
+        <vlocName>전북특별자치도 부안군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>포항시 외</ccbaAdmin>
+        <ccbaAsdt>20231228</ccbaAsdt>
+        <ccbaMnm>포항 금광동층 신생대 화석산지</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1175850.9572418274</cnX>
+        <cnY>1775291.3911661853</cnY>
+        <crltsnoNm>제577호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>406</sn>
+        <vlocName>경상북도</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>김영신 외</ccbaAdmin>
+        <ccbaAsdt>20240219</ccbaAsdt>
+        <ccbaMnm>영월 분덕재동굴</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>1085383.5003804236</cnX>
+        <cnY>1914457.250143691</cnY>
+        <crltsnoNm>제578호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 천연동굴</ctgrname>
+        <sn>407</sn>
+        <vlocName>강원특별자치도 영월군</vlocName>
+    </spca>
+    <spca>
+        <ccbaAdmin>최월판</ccbaAdmin>
+        <ccbaAsdt>20240618</ccbaAsdt>
+        <ccbaMnm>신안 만재도 주상절리</ccbaMnm>
+        <ccmaName>천연기념물</ccmaName>
+        <cnX>813783.64110256825</cnX>
+        <cnY>1580870.4143139788</cnY>
+        <crltsnoNm>제579호</crltsnoNm>
+        <ctgrname>자연유산 / 천연기념물 / 지구과학기념물 / 지질지형</ctgrname>
+        <sn>408</sn>
+        <vlocName>전라남도 신안군</vlocName>
+    </spca>
+</root>

@@ -2,11 +2,17 @@ package com.bangbang.member.controller;
 
 import static com.bangbang.member.controller.MemberController.MEMBER_API_BASE_URL;
 
+import com.bangbang.member.domain.Member;
 import com.bangbang.member.dto.MemberRequest;
+import com.bangbang.member.dto.MemberResponse;
+import com.bangbang.member.exception.MemberException;
 import com.bangbang.member.service.MemberService;
+import io.swagger.v3.oas.annotations.responses.ApiResponse;
+import io.swagger.v3.oas.annotations.responses.ApiResponses;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -29,19 +35,37 @@ public class MemberController {
         this.memberService = memberService;
     }
 
+    @ApiResponses(value = {
+            @ApiResponse(responseCode = "200", description = "회원가입 성공"),
+            @ApiResponse(responseCode = "400", description = "회원가입 실패"),
+    })
     @PostMapping("/signup")
     public ResponseEntity<?> signup(@RequestBody MemberRequest request) {
-        memberService.signup(request);
+        try {
+            memberService.signup(request);
+        } catch (MemberException e) {
+            return ResponseEntity.badRequest().body(e.getMessage());
+        }
         return ResponseEntity.ok().build();
     }
 
+    @ApiResponses(value = {
+            @ApiResponse(responseCode = "200", description = "로그인 성공"),
+            @ApiResponse(responseCode = "400", description = "로그인 실패"),
+    })
     @PostMapping("/login")
     public ResponseEntity<?> login(@RequestBody MemberRequest request) {
         try {
-            memberService.login(request);
-            return ResponseEntity.ok().build();
-        } catch (IllegalArgumentException e) {
-            return ResponseEntity.badRequest().build();
+            Member member = memberService.login(request);
+            return ResponseEntity.ok(MemberResponse.from(member));
+        } catch (MemberException e) {
+            return ResponseEntity.badRequest().body(e.getMessage());
         }
+    }
+
+    @GetMapping("/info/{id}")
+    public ResponseEntity<?> info(@PathVariable Long id) {
+        Member member = memberService.getInfo(id);
+        return ResponseEntity.ok(MemberResponse.from(member));
     }
 }

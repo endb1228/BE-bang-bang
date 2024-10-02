@@ -2,8 +2,6 @@ package com.bangbang.member.dto;
 
 import com.bangbang.member.domain.Member;
 import com.fasterxml.jackson.annotation.JsonProperty;
-import java.util.List;
-import java.util.stream.Collectors;
 import lombok.Builder;
 import lombok.Getter;
 
@@ -13,20 +11,18 @@ public class MemberResponse {
 
     @JsonProperty("userId")
     private Long id;
+    private String account;
     private String email;
-    private String password;
+    private String nickname;
+    private String profileImageUrl;
 
-    public static MemberResponse getMember(Member member) {
+    public static MemberResponse from(Member member) {
         return MemberResponse.builder()
                 .id(member.getId())
+                .account(member.getAccount())
                 .email(member.getEmail())
-                .password(member.getPassword())
+                .nickname(member.getNickname())
+                .profileImageUrl(member.getProfileImageUrl())
                 .build();
-    }
-
-    public static List<MemberResponse> getMemberList(List<Member> members) {
-        return members.stream()
-                .map(MemberResponse::getMember)
-                .collect(Collectors.toList());
     }
 }

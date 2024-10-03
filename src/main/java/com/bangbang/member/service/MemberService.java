@@ -25,8 +25,9 @@ public class MemberService {
                 .orElseThrow(IllegalArgumentException::new);
     }
 
-    public void signup(MemberRequest request) throws MemberException {
-        memberRepository.save(Member.create(request.getAccount(), request.getEmail(), request.getNickname(), request.getPassword()));
+    public Member signup(MemberRequest request) throws MemberException {
+        return memberRepository.save(
+                Member.create(request.getAccount(), request.getEmail(), request.getNickname(), request.getPassword()));
     }
 
     public Member login(MemberRequest request) throws MemberException {

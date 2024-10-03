@@ -44,14 +44,11 @@ public class MemberController {
     @PostMapping("/signup")
     public ResponseEntity<?> signup(@RequestBody MemberRequest request) {
         try {
-            memberService.signup(request);
+            return ResponseEntity.ok(MemberResponse.from(memberService.signup(request)));
         } catch (MemberException e) {
             return ResponseEntity.badRequest().body(e.getMessage());
         }
-        return ResponseEntity.ok().build();
     }
-
-    @GetMapping
 
     @ApiResponses(value = {
             @ApiResponse(responseCode = "200", description = "로그인 성공"),

@@ -19,6 +19,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @CrossOrigin(
@@ -51,6 +52,8 @@ public class MemberController {
         return ResponseEntity.ok().build();
     }
 
+    @GetMapping
+
     @ApiResponses(value = {
             @ApiResponse(responseCode = "200", description = "로그인 성공"),
             @ApiResponse(responseCode = "400", description = "로그인 실패")
@@ -60,6 +63,26 @@ public class MemberController {
         try {
             Member member = memberService.login(request);
             return ResponseEntity.ok(MemberResponse.from(member));
+        } catch (MemberException e) {
+            return ResponseEntity.badRequest().body(e.getMessage());
+        }
+    }
+
+    @GetMapping("/validate")
+    public ResponseEntity<?> validateAccount(@RequestParam(required = false) String account,
+                                             @RequestParam(required = false) String email,
+                                             @RequestParam(required = false) String nickname) {
+        try {
+            if (!account.isEmpty()) {
+                memberService.validateAccount(account);
+            } else if (email.isEmpty()) {
+                memberService.validateEmail(email);
+            } else if (nickname.isEmpty()) {
+                memberService.validateNickname(nickname);
+            } else {
+                return ResponseEntity.badRequest().body("파라미터 입력이 잘못되었습니다.");
+            }
+            return ResponseEntity.ok().build();
         } catch (MemberException e) {
             return ResponseEntity.badRequest().body(e.getMessage());
         }

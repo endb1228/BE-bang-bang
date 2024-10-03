@@ -26,15 +26,6 @@ public class MemberService {
     }
 
     public void signup(MemberRequest request) throws MemberException {
-        if (memberRepository.findByAccount(request.getAccount()).isPresent()) {
-            throw MemberException.MEMBER_ACCOUNT_DUPLICATED;
-        }
-        if (memberRepository.findByEmail(request.getEmail()).isPresent()) {
-            throw MemberException.MEMBER_EMAIL_DUPLICATED;
-        }
-        if (memberRepository.findByNickname(request.getEmail()).isPresent()) {
-            throw MemberException.MEMBER_NICKNAME_DUPLICATED;
-        }
         memberRepository.save(Member.create(request.getAccount(), request.getEmail(), request.getNickname(), request.getPassword()));
     }
 
@@ -53,5 +44,23 @@ public class MemberService {
 
     public Member getInfo(Long id) {
         return memberRepository.findById(id).get();
+    }
+
+    public void validateAccount(String account) throws MemberException {
+        if (memberRepository.findByAccount(account).isPresent()) {
+            throw MemberException.MEMBER_ACCOUNT_DUPLICATED;
+        }
+    }
+
+    public void validateEmail(String email) throws MemberException {
+        if (memberRepository.findByAccount(email).isPresent()) {
+            throw MemberException.MEMBER_EMAIL_DUPLICATED;
+        }
+    }
+
+    public void validateNickname(String nickname) throws MemberException {
+        if (memberRepository.findByAccount(nickname).isPresent()) {
+            throw MemberException.MEMBER_NICKNAME_DUPLICATED;
+        }
     }
 }

@@ -6,8 +6,14 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;
 import java.util.List;
+import lombok.AccessLevel;
+import lombok.Builder;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
 
 @Entity
+@Getter
+@NoArgsConstructor(access = AccessLevel.PROTECTED)
 public class Course {
 
     @Id
@@ -16,4 +22,8 @@ public class Course {
     private String name;
     @OneToMany(mappedBy = "course")
     private List<CourseHeritage> courseHeritages;
+
+    public Course(String name) {
+        this.name = name;
+    }
 }

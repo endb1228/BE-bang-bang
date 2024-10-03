@@ -9,6 +9,7 @@ import com.bangbang.member.exception.MemberException;
 import com.bangbang.member.service.MemberService;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;
+import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -42,7 +43,7 @@ public class MemberController {
             @ApiResponse(responseCode = "400", description = "회원가입 실패"),
     })
     @PostMapping("/signup")
-    public ResponseEntity<?> signup(@RequestBody MemberRequest request) {
+    public ResponseEntity<?> signup(@Valid @RequestBody MemberRequest request) {
         try {
             return ResponseEntity.ok(MemberResponse.from(memberService.signup(request)));
         } catch (MemberException e) {
@@ -55,7 +56,7 @@ public class MemberController {
             @ApiResponse(responseCode = "400", description = "로그인 실패")
     })
     @PostMapping("/login")
-    public ResponseEntity<?> login(@RequestBody MemberRequest request) {
+    public ResponseEntity<?> login(@Valid @RequestBody MemberRequest request) {
         try {
             Member member = memberService.login(request);
             return ResponseEntity.ok(MemberResponse.from(member));
@@ -107,7 +108,7 @@ public class MemberController {
     })
     @PutMapping("/info/{id}")
     public ResponseEntity<?> modifyInfo(@PathVariable Long id,
-                                        @RequestBody MemberRequest memberRequest) {
+                                        @Valid @RequestBody MemberRequest memberRequest) {
         try {
             memberService.modifyInfo(id, memberRequest);
             return ResponseEntity.ok().build();

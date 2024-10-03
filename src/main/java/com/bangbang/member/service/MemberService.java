@@ -25,8 +25,9 @@ public class MemberService {
                 .orElseThrow(IllegalArgumentException::new);
     }
 
-    public void signup(MemberRequest request) throws MemberException {
-        memberRepository.save(Member.create(request.getAccount(), request.getEmail(), request.getNickname(), request.getPassword()));
+    public Member signup(MemberRequest request) throws MemberException {
+        return memberRepository.save(
+                Member.create(request.getAccount(), request.getEmail(), request.getNickname(), request.getPassword()));
     }
 
     public Member login(MemberRequest request) throws MemberException {
@@ -40,10 +41,6 @@ public class MemberService {
         if (!member.getPassword().equals(password)) {
             throw MemberException.MEMBER_PASSWORD_NOT_CORRECT;
         }
-    }
-
-    public Member getInfo(Long id) {
-        return memberRepository.findById(id).get();
     }
 
     public void validateAccount(String account) throws MemberException {
@@ -62,5 +59,15 @@ public class MemberService {
         if (memberRepository.findByAccount(nickname).isPresent()) {
             throw MemberException.MEMBER_NICKNAME_DUPLICATED;
         }
+    }
+
+    public Member getInfo(Long id) throws MemberException {
+        return memberRepository.findById(id).orElseThrow(() -> MemberException.MEMBER_ID_NOT_FOUND);
+
+    }
+
+    public void modifyInfo(Long id, MemberRequest request) throws MemberException {
+        Member member = getInfo(id);
+        member.modify(request.getNickname(), request.getPassword());
     }
 }

@@ -68,6 +68,10 @@ public class MemberController {
         }
     }
 
+    @ApiResponses(value = {
+            @ApiResponse(responseCode = "200", description = "검증 성공"),
+            @ApiResponse(responseCode = "400", description = "검증 실패"),
+    })
     @GetMapping("/validate")
     public ResponseEntity<?> validateAccount(@RequestParam(required = false) String account,
                                              @RequestParam(required = false) String email,

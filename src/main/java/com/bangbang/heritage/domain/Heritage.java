@@ -4,10 +4,12 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.OneToMany;
 import jakarta.xml.bind.annotation.XmlAccessType;
 import jakarta.xml.bind.annotation.XmlAccessorType;
 import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlRootElement;
+import java.util.List;
 import lombok.Getter;
 
 @Entity
@@ -26,4 +28,6 @@ public class Heritage {
     private double utmkN;
     @XmlElement(name = "cnX")
     private double utmkE;
+    @OneToMany(mappedBy = "heritage")
+    private List<CourseHeritage> courseHeritages;
 }

@@ -42,10 +42,6 @@ public class MemberService {
         }
     }
 
-    public Member getInfo(Long id) {
-        return memberRepository.findById(id).get();
-    }
-
     public void validateAccount(String account) throws MemberException {
         if (memberRepository.findByAccount(account).isPresent()) {
             throw MemberException.MEMBER_ACCOUNT_DUPLICATED;
@@ -62,5 +58,15 @@ public class MemberService {
         if (memberRepository.findByAccount(nickname).isPresent()) {
             throw MemberException.MEMBER_NICKNAME_DUPLICATED;
         }
+    }
+
+    public Member getInfo(Long id) throws MemberException {
+        return memberRepository.findById(id).orElseThrow(() -> MemberException.MEMBER_ID_NOT_FOUND);
+
+    }
+
+    public void modifyInfo(Long id, MemberRequest request) throws MemberException {
+        Member member = getInfo(id);
+        member.modify(request.getNickname(), request.getPassword());
     }
 }

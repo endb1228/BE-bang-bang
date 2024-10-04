@@ -1,5 +1,6 @@
-package com.bangbang.heritage.domain;
+package com.bangbang.member.domain;
 
+import com.bangbang.heritage.domain.Course;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -13,22 +14,21 @@ import lombok.NoArgsConstructor;
 @Entity
 @Getter
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
-public class CourseHeritage {
+public class MemberCourse {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     @ManyToOne
+    @JoinColumn(name = "member_id")
+    private Member member;
+    @ManyToOne
     @JoinColumn(name = "course_id")
     private Course course;
-    @ManyToOne
-    @JoinColumn(name = "heritage_id")
-    private Heritage heritage;
-    private Long heritageOrder;
+    private String memo;
 
-    public CourseHeritage(Course course, Heritage heritage, Long heritageOrder) {
+    public MemberCourse(Member member, Course course) {
+        this.member = member;
         this.course = course;
-        this.heritage = heritage;
-        this. heritageOrder = heritageOrder;
-        course.getCourseHeritages().add(this);
     }
 }

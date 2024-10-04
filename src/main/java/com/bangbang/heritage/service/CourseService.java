@@ -8,6 +8,7 @@ import com.bangbang.heritage.repository.CourseRepository;
 import com.bangbang.heritage.repository.HeritageRepository;
 import com.bangbang.util.CourseGenerator;
 import com.bangbang.util.CourseGenerator.CourseData;
+import jakarta.persistence.EntityManager;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;

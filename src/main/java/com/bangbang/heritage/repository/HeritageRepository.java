@@ -9,4 +9,5 @@ import org.springframework.stereotype.Repository;
 public interface HeritageRepository extends JpaRepository<Heritage, Long> {
 
     List<Heritage> findByNameIn(List<String> heritages);
+
 }

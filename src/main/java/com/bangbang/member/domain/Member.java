@@ -1,9 +1,12 @@
 package com.bangbang.member.domain;
 
+import com.bangbang.heritage.domain.Stamp;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.OneToMany;
+import java.util.List;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
@@ -20,6 +23,10 @@ public class Member {
     private String nickname;
     private String password;
     private String profileImageUrl;
+    @OneToMany(mappedBy = "member")
+    private List<MemberCourse> memberCourses;
+    @OneToMany(mappedBy = "member")
+    private List<Stamp> stamps;
 
     private Member(String account, String email, String nickname, String password) {
         this.account = account;

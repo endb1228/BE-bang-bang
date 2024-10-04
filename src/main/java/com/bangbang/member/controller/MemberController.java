@@ -2,6 +2,8 @@ package com.bangbang.member.controller;
 
 import static com.bangbang.member.controller.MemberController.MEMBER_API_BASE_URL;
 
+import com.bangbang.heritage.dto.CourseResponse;
+import com.bangbang.heritage.exception.CourseException;
 import com.bangbang.member.domain.Member;
 import com.bangbang.member.dto.MemberRequest;
 import com.bangbang.member.dto.MemberResponse;
@@ -13,6 +15,7 @@ import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PatchMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
@@ -64,6 +67,7 @@ public class MemberController {
             return ResponseEntity.badRequest().body(e.getMessage());
         }
     }
+
     @ApiResponses(value = {
             @ApiResponse(responseCode = "200", description = "유효한 입력"),
             @ApiResponse(responseCode = "400", description = "유효하지 않은 입력")
@@ -115,5 +119,29 @@ public class MemberController {
         } catch (MemberException e) {
             return ResponseEntity.badRequest().body(e.getMessage());
         }
+    }
+
+
+    @ApiResponses(value = {
+            @ApiResponse(responseCode = "200", description = "변경 성공"),
+            @ApiResponse(responseCode = "400", description = "변경 실패")
+    })
+    @PatchMapping("/{userId}/course/{courseId}")
+    public ResponseEntity<?> addCourse(@PathVariable Long userId,
+                                       @PathVariable Long courseId) {
+        try {
+            memberService.addCourse(userId, courseId);
+            return ResponseEntity.ok().build();
+        } catch (MemberException | CourseException e) {
+            return ResponseEntity.badRequest().body(e.getMessage());
+        }
+    }
+
+    @GetMapping("/{userId}/course")
+    public ResponseEntity<?> getCourseList(@PathVariable Long userId) {
+        return ResponseEntity.ok().body(
+                memberService.getCourseList(userId).stream()
+                        .map(CourseResponse::from).toList()
+        );
     }
 }

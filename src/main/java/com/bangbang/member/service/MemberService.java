@@ -1,8 +1,15 @@
 package com.bangbang.member.service;
 
+import com.bangbang.heritage.domain.Course;
+import com.bangbang.heritage.exception.CourseException;
+import com.bangbang.heritage.repository.CourseHeritageRepository;
+import com.bangbang.heritage.repository.CourseRepository;
+import com.bangbang.heritage.repository.StampRepository;
 import com.bangbang.member.domain.Member;
+import com.bangbang.member.domain.MemberCourse;
 import com.bangbang.member.dto.MemberRequest;
 import com.bangbang.member.exception.MemberException;
+import com.bangbang.member.repository.MemberCourseRepository;
 import com.bangbang.member.repository.MemberRepository;
 import java.util.List;
 import org.springframework.stereotype.Service;
@@ -11,9 +18,19 @@ import org.springframework.stereotype.Service;
 public class MemberService {
 
     private final MemberRepository memberRepository;
+    private final CourseRepository courseRepository;
+    private final MemberCourseRepository memberCourseRepository;
+    private final CourseHeritageRepository courseHeritageRepository;
+    private final StampRepository stampRepository;
 
-    public MemberService(MemberRepository memberRepository) {
+    public MemberService(MemberRepository memberRepository, CourseRepository courseRepository,
+                         MemberCourseRepository memberCourseRepository,
+                         CourseHeritageRepository courseHeritageRepository, StampRepository stampRepository) {
         this.memberRepository = memberRepository;
+        this.courseRepository = courseRepository;
+        this.memberCourseRepository = memberCourseRepository;
+        this.courseHeritageRepository = courseHeritageRepository;
+        this.stampRepository = stampRepository;
     }
 
     public List<Member> getMemberList() {
@@ -69,5 +86,21 @@ public class MemberService {
     public void modifyInfo(Long id, MemberRequest request) throws MemberException {
         Member member = getInfo(id);
         member.modify(request.getNickname(), request.getPassword());
+    }
+
+
+    public void addCourse(Long userId, Long courseId) throws MemberException, CourseException {
+        Member member = memberRepository.findById(userId).orElseThrow(() -> MemberException.MEMBER_ID_NOT_FOUND);
+        Course course = courseRepository.findById(courseId).orElseThrow(() -> CourseException.COURSE_NOT_FOUND);
+        if(memberCourseRepository.existsByMemberIdAndCourseId(userId, courseId)) {
+            throw MemberException.MEMBER_ALREADY_HAS_COURSE;
+        }
+        MemberCourse memberCourse = new MemberCourse(member, course);
+        memberCourseRepository.save(memberCourse);
+    }
+
+    public List<Course> getCourseList(Long userId) {
+        return memberCourseRepository.findAllByMemberId(userId).stream()
+                .map(MemberCourse::getCourse).toList();
     }
 }

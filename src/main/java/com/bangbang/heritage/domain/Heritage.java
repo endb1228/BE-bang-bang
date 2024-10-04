@@ -4,6 +4,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToMany;
 import jakarta.xml.bind.annotation.XmlAccessType;
 import jakarta.xml.bind.annotation.XmlAccessorType;
@@ -30,4 +31,6 @@ public class Heritage {
     private double utmkE;
     @OneToMany(mappedBy = "heritage")
     private List<CourseHeritage> courseHeritages;
+    @OneToMany(mappedBy = "heritage")
+    private List<Stamp> stamps;
 }

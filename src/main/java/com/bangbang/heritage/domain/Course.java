@@ -5,6 +5,8 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import lombok.AccessLevel;
 import lombok.Builder;
@@ -21,7 +23,7 @@ public class Course {
     private Long id;
     private String name;
     @OneToMany(mappedBy = "course")
-    private List<CourseHeritage> courseHeritages;
+    private List<CourseHeritage> courseHeritages = new ArrayList<>();
 
     public Course(String name) {
         this.name = name;

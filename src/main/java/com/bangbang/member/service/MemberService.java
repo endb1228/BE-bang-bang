@@ -1,6 +1,9 @@
 package com.bangbang.member.service;
 
 import com.bangbang.heritage.domain.Course;
+import com.bangbang.heritage.domain.CourseHeritage;
+import com.bangbang.heritage.domain.Heritage;
+import com.bangbang.heritage.domain.Stamp;
 import com.bangbang.heritage.exception.CourseException;
 import com.bangbang.heritage.repository.CourseHeritageRepository;
 import com.bangbang.heritage.repository.CourseRepository;
@@ -67,13 +70,13 @@ public class MemberService {
     }
 
     public void validateEmail(String email) throws MemberException {
-        if (memberRepository.findByAccount(email).isPresent()) {
+        if (memberRepository.findByEmail(email).isPresent()) {
             throw MemberException.MEMBER_EMAIL_DUPLICATED;
         }
     }
 
     public void validateNickname(String nickname) throws MemberException {
-        if (memberRepository.findByAccount(nickname).isPresent()) {
+        if (memberRepository.findByNickname(nickname).isPresent()) {
             throw MemberException.MEMBER_NICKNAME_DUPLICATED;
         }
     }
@@ -92,7 +95,7 @@ public class MemberService {
     public void addCourse(Long userId, Long courseId) throws MemberException, CourseException {
         Member member = memberRepository.findById(userId).orElseThrow(() -> MemberException.MEMBER_ID_NOT_FOUND);
         Course course = courseRepository.findById(courseId).orElseThrow(() -> CourseException.COURSE_NOT_FOUND);
-        if(memberCourseRepository.existsByMemberIdAndCourseId(userId, courseId)) {
+        if (memberCourseRepository.existsByMemberIdAndCourseId(userId, courseId)) {
             throw MemberException.MEMBER_ALREADY_HAS_COURSE;
         }
         MemberCourse memberCourse = new MemberCourse(member, course);
@@ -102,5 +105,18 @@ public class MemberService {
     public List<Course> getCourseList(Long userId) {
         return memberCourseRepository.findAllByMemberId(userId).stream()
                 .map(MemberCourse::getCourse).toList();
+    }
+
+    public void getCourse(Long userId, Long courseId) throws MemberException {
+        List<Heritage> heritages = courseHeritageRepository.findAllByCourseIdOrderByHeritageOrder(courseId).stream()
+                .map(CourseHeritage::getHeritage).toList();
+        List<Stamp> stamps = stampRepository.findAllByMemberIdAndHeritageIn(userId, heritages);
+
+    }
+
+    public String getMemo(Long userId, Long courseId) throws MemberException {
+        MemberCourse memberCourse = memberCourseRepository.findByMemberIdAndCourseId(userId, courseId)
+                .orElseThrow(() -> MemberException.MEMBER_NOT_HAS_COURSE);
+        return memberCourse.getMemo();
     }
 }

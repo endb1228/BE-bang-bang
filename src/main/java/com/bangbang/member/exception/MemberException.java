@@ -1,5 +1,7 @@
 package com.bangbang.member.exception;
 
+import java.util.function.Supplier;
+
 public class MemberException extends Exception {
 
     public MemberException(String message) {
@@ -13,4 +15,5 @@ public class MemberException extends Exception {
     public static final MemberException MEMBER_PASSWORD_NOT_CORRECT = new MemberException("비밀번호가 일치하지 않습니다.");
     public static final MemberException MEMBER_ID_NOT_FOUND = new MemberException("존재하지 않는 유저 id입니다.");
     public static final MemberException MEMBER_ALREADY_HAS_COURSE = new MemberException("이미 추가된 코스입니다.");
+    public static final MemberException MEMBER_NOT_HAS_COURSE = new MemberException("저장하지 않은 코스입니다.");
 }

@@ -29,7 +29,6 @@ public class Stamp {
     private Heritage heritage;
     private LocalDateTime stampedTime;
 
-
     public Stamp(Member member, Heritage heritage) {
         this.member = member;
         this.heritage = heritage;

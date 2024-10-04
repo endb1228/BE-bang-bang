@@ -79,9 +79,9 @@ public class MemberController {
         try {
             if (!account.isEmpty()) {
                 memberService.validateAccount(account);
-            } else if (email.isEmpty()) {
+            } else if (!email.isEmpty()) {
                 memberService.validateEmail(email);
-            } else if (nickname.isEmpty()) {
+            } else if (!nickname.isEmpty()) {
                 memberService.validateNickname(nickname);
             } else {
                 return ResponseEntity.badRequest().body("파라미터 입력이 잘못되었습니다.");

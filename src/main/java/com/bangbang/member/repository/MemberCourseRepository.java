@@ -12,4 +12,6 @@ public interface MemberCourseRepository extends JpaRepository<MemberCourse, Long
     List<MemberCourse> findAllByMemberId(Long userId);
 
     boolean existsByMemberIdAndCourseId(Long userId, Long courseId);
+
+    Optional<MemberCourse> findByMemberIdAndCourseId(Long userId, Long courseId);
 }

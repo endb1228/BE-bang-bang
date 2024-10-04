@@ -9,5 +9,5 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface CourseHeritageRepository extends JpaRepository<CourseHeritage, Long> {
 
-    List<CourseHeritage> findAllByCourse(Course course);
+    List<CourseHeritage> findAllByCourseIdOrderByHeritageOrder(Long courseId);
 }

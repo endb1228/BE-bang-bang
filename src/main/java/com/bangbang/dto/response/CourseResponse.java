@@ -14,6 +14,7 @@ public class CourseResponse {
 
     private Long id;
     private String name;
+    private String photoUrl;
     private List<HeritageResponse> heritageResponses;
 
     public static CourseResponse from(Course course, List<String> time) {
@@ -27,6 +28,7 @@ public class CourseResponse {
         return CourseResponse.builder()
                 .id(course.getId())
                 .name(course.getName())
+                .photoUrl(course.getPhotoUrl())
                 .heritageResponses(heritageResponses)
                 .build();
     }

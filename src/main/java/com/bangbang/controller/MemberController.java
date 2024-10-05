@@ -145,11 +145,21 @@ public class MemberController {
 
     @GetMapping("/{userId}/course")
     public ResponseEntity<?> getCourseList(@PathVariable Long userId,
-                                           @RequestParam(name = "c") boolean isCompleted) {
-        List<MemberCourse> memberCourseList = memberService.getCourseList(userId, isCompleted);
+                                           @RequestParam(name = "completed", required = false) Boolean isCompleted) {
+        List<MemberCourse> memberCourseList;
+        if (isCompleted == null) {
+            memberCourseList = memberService.getCourseList(userId);
+        } else {
+            memberCourseList = memberService.getCourseList(userId, isCompleted);
+        }
         return ResponseEntity.ok().body(
                 memberCourseList.stream()
-                        .map(m -> GetMemberCourseResponse.from(m.getCourse().getId(), m.stampNum())).toList()
+                        .map(m -> {
+                            Course course = m.getCourse();
+                            List<String> stampTime = memberService.getStampTime(userId, course.getId());
+                            return GetMemberCourseResponse.from(m.getCourse(), stampTime, m.stampNum(),
+                                    m.isCompleted());
+                        }).toList()
         );
     }
 
@@ -175,8 +185,8 @@ public class MemberController {
 
     @PutMapping("/{userId}/course/{courseId}/memo")
     public ResponseEntity<?> modifyMemo(@PathVariable Long userId,
-                                    @PathVariable Long courseId,
-                                    @RequestBody String memo) {
+                                        @PathVariable Long courseId,
+                                        @RequestBody String memo) {
         try {
             return ResponseEntity.ok().body(memberService.modifyMemo(userId, courseId, memo));
         } catch (MemberException e) {

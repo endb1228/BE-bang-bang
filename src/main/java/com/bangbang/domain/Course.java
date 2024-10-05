@@ -20,6 +20,7 @@ public class Course {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String name;
+    private String photoUrl;
     @OneToMany(mappedBy = "course")
     private List<CourseHeritage> courseHeritages = new ArrayList<>();
     @OneToMany(mappedBy = "course")

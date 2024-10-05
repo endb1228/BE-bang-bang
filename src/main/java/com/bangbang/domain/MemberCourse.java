@@ -65,4 +65,8 @@ public class MemberCourse {
         stampList.set(order, LocalDateTime.now().toString());
         stamp = String.join(",", stampList);
     }
+
+    public boolean isCompleted() {
+        return stampNum() == course.getCourseHeritages().size();
+    }
 }

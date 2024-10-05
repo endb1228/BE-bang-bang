@@ -139,6 +139,10 @@ public class MemberService {
         return memberCourseRepository.findAllByMemberIdAndCompleted(memberId, isCompleted);
     }
 
+    public List<MemberCourse> getCourseList(Long memberId) {
+        return memberCourseRepository.findAllByMemberId(memberId);
+    }
+
     public void addStamp(Long userId, Long courseId, int heritageOrder) {
         MemberCourse memberCourse = memberCourseRepository.findByMemberIdAndCourseId(userId, courseId).get();
         memberCourse.setStamp(heritageOrder);

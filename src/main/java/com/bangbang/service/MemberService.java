@@ -144,4 +144,13 @@ public class MemberService {
         memberCourse.setStamp(heritageOrder);
         memberCourseRepository.save(memberCourse);
     }
+
+    public int getStampNum(Long userId) {
+        List<MemberCourse> memberCourses = memberCourseRepository.findAllByMemberId(userId);
+        int i=0;
+        for (MemberCourse memberCourse : memberCourses) {
+            i+=memberCourse.stampNum();
+        }
+        return i;
+    }
 }

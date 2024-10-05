@@ -191,4 +191,9 @@ public class MemberController {
         memberService.addStamp(userId, courseId, heritageOrder);
         return ResponseEntity.ok().build();
     }
+
+    @GetMapping("{userId}/stampNum")
+    public ResponseEntity<?> getStampNum(@PathVariable Long userId) {
+        return ResponseEntity.ok(memberService.getStampNum(userId));
+    }
 }
